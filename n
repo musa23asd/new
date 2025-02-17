@@ -1,0 +1,55 @@
+Agriculture	Rising Temperature	"Impact: Rising temperatures reduce crop yields (e.g., 2023 heatwaves cut India’s wheat production by 10%).
+ 
+Evidence: World Bank (2024) estimates climate-induced agricultural losses will cost $80B/year by 2030."	https://www.business-standard.com/industry/agriculture/india-braces-for-warmer-feb-wheat-crop-rapeseed-output-may-be-at-risk-125013000953_1.html	Crop Insurance and Agribusiness Insurance
+Agriculture- US - Specific	Rising Temperature	"Impact: Midwest corn yields could drop 20% by 2030 due to droughts (USDA).
+ 
+Evidence: Only 15% of U.S. farms use parametric insurance despite 2023’s $15B losses (NCIS)."	https://www.edf.org/sites/default/files/2022-10/climate-impacts-midwest-crop-yields.pdf	Crop Insurance and Agribusiness Insurance
+GEN AI/ Technology	Energy Consumption - North America Specific	"Scientists have estimated that the power requirements of data centers in North America increased from 2,688 megawatts at the end of 2022 to 5,341 megawatts at the end of 2023,
+ 
+By 2026, the electricity consumption of data centers is expected to approach 1,050 terawatts"	https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117	Environmental Liability Insurance
+	Energy Consumption - USA Specific	The power needed to train and deploy a model like OpenAI’s GPT-3 is difficult to ascertain. In a 2021 research paper, scientists from Google and the University of California at Berkeley estimated the training process alone consumed 1,287 megawatt hours of electricity (enough to power about 120 average U.S. homes for a year), generating about 552 tons of carbon dioxide.	https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117	Environmental Liability Insurance
+	Water Consumption - US Specific	"Data centers that host generative AI models use significant amounts of water for cooling systems. For instance:
+Training GPT-3 in Microsoft’s U.S. data centers directly evaporated 700,000 liters of fresh water, enough to produce 370 BMW cars .
+A short conversation with ChatGPT (20-50 questions) can consume half a liter of fresh water"	"https://m.economictimes.com/tech/artificial-intelligence/generative-ais-environmental-impact-in-figures/articleshow/117825481.cms
+ 
+ 
+https://thesustainableagency.com/blog/environmental-impact-of-generative-ai/"	Environmental Liability Insurance
+	Carbon Emissions - US Specific	"Training large models like GPT-3 can emit up to 626,000 pounds of CO₂, equivalent to 300 round-trip flights between New York and San Francisco .
+By 2030, data centers supporting AI could emit 2.5 billion tons of CO₂ annually, roughly 40% of the U.S.’s current emissions ."	"https://m.economictimes.com/tech/artificial-intelligence/generative-ais-environmental-impact-in-figures/articleshow/117825481.cms
+ 
+ 
+https://thesustainableagency.com/blog/environmental-impact-of-generative-ai/"	Environmental Liability Insurance
+Real Estate	Flood	"Impact: 40% of U.S. coastal properties face flood risk by 2050 (NOAA, 2024).
+ 
+Evidence: Swiss Re reports a 25% rise in wildfire-related property claims since 2020."	https://www.reinsurancene.ws/swiss-re-highlights-alt-capital-as-key-segment-of-property-cat-retro-market/	Property & Home Insurance
+Real Estate - US - Specific	Flood	"
+Impact: Miami faces $1.3B in annual flood damage by 2030 (NOAA).
+ 
+Evidence: 25% of Florida homeowners dropped flood insurance in 2024 due to rising premiums (Insurance Journal)."	https://www.newsweek.com/florida-insurance-crisis-worsens-fema-flood-rate-hike-hurricane-ian-rebuilding-standards-1885571	Property & Home Insurance
+Renewable Energy	Hailstorms - SolarPanels	"Impact: Hailstorms in Texas (2023) damaged $2B+ worth of solar panels (IEA).
+ 
+Evidence: 60% of insurers now demand climate-resilient designs for wind farms (AM Best, 2024)."	" 
+https://www.newsweek.com/thousands-solar-panels-texas-destroyed-hailstorm-1883546"	Commercial Property and Business Interruption Insurance
+Renewable Energy - US - Specific	Hailstorms -  Oil Production	"Impact: Texas’ 2024 wildfires disrupted 5% of U.S. oil production (EIA).
+ 
+Evidence: Solar panel hailstorm claims rose 40% in Texas (ERCOT, 2024)."	https://www.eia.gov/todayinenergy/detail.php?id=64045	Commercial Property and Business Interruption Insurance
+Logistics	River droughts 	Impact: 2023 Rhine River droughts disrupted $300M/day in EU cargo shipments (Reuters).	https://www.reuters.com/world/europe/low-water-again-hampers-rhine-river-shipping-germany-2023-06-28/	Business Interruption Insurance
+Logistics - US - Specific	River droughts 			
+Healthcare	Diseases	"Impact: Dengue cases in South Asia doubled in 2023 due to warmer monsoons (WHO).
+ 
+Evidence: Heat-related health claims rose 25% in India’s insurance sector (ICICI Lombard, 2023)."	https://www.aljazeera.com/news/2023/9/8/global-warming-longer-monsoon-rains-making-dengue-deadlier-in-south-asia	Health and Life Insurance
+Healthcare - US - Specific	Heat-Waves	"Impact: Phoenix heatwaves caused a 45% spike in health insurance claims (UnitedHealth, 2023).
+ 
+Evidence: Heat-related ER visits cost insurers $1B annually (CDC)."	https://www.fiercehealthcare.com/providers/extreme-heat-drives-1b-excess-healthcare-utilization-year-study-estimates	Health and Life Insurance
+Manufacturing	Drought	"Impact: 2024 Thailand floods halted $1.5B in electronics manufacturing (ADB).
+https://www.nationthailand.com/sustaination/40044461?
+ 
+Evidence: Most of this damage was to the manufacturing industry, as seven major industrial estates were inundated, triggering disruptions to manufacturing supply chains"	"https://www.nationthailand.com/sustaination/40044461?
+"	Commercial Property and Supply Chain Insurance
+Manufacturing - US - Specific	Drought	"Impact: Mississippi River droughts cost manufacturers $10B in 2023 (USACE).
+ 
+Evidence: IoT sensors reduced factory downtime by 30% in flood-prone areas (IBM)."	https://tarheelswire.usatoday.com/story/news/nation/2023/05/24/mississippi-river-lock-and-dam-repairs-shipping-logistics-costs/70249997007/	Commercial Property and Supply Chain Insurance
+				
+US- Specific - Transportation	Rising Temperature 	Impact: Wildfires in California (2024) delayed EV battery deliveries, costing automakers  When damaged and overheated, lithium-ion batteries can ignite and even explode. Residual heat can trigger a reaction that can lead to  combustion.                                                                                                                                                                                         Evidence: The global commitment to decarbonizing the transport sector has resulted in an unabated growth in the markets for electric vehicles and their batteries. Consequently, the demand for battery raw materials is continuously growing.	https://electrek.co/2024/08/02/heres-how-scorching-heat-affects-your-evs-range/ https://www.nbclosangeles.com/news/california-wildfires/la-fires-lithium-ion-batteries/3617981/	Commercial Auto Insurance
+US- Specific - Fisheries/Aquaculture	Ocean Acidification	"Impact: U.S. West Coast oyster farms saw 40% losses in 2023 due to acidification (NOAA).
+Evidence: Ocean acidification is destroying oyster reefs – here's how that could affect the environment and the economy"	https://www.weforum.org/stories/2024/01/oysters-ocean-acidification/	Aquaculture Insurance and Business Interruption Insurance
