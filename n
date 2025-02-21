@@ -30,8 +30,10 @@ Coastal cities face more frequent and severe flooding, accelerating shoreline er
 
 Impact on Insurance Industries and Challenges -  
 
-1.1 Diverse Lines of Business Affected: P&C, Crop, Commercial & Specialty, Life and Health 
-1.2 Rising Premiums and Declining Renewals 
+Diverse Lines of Business Affected: P&C, Crop, Commercial & Specialty, Life and Health 
+Rising Premiums and Declining Renewals 
+
+Diverse Lines of Business Affected 
 
 Property & Casualty Insurance (Hurricanes/Floods/Wildfires):  
 
@@ -59,13 +61,30 @@ Transportation & Logistics: Droughts and wildfires impact cargo shipments, delay
 
  Aquaculture: Ocean acidification is causing substantial losses in oyster farms, affecting both local economies and marine biodiversity. 
 
+ 
+
+Rising Premiums and Declining Renewals 
+
+ 
+
 Rising Premiums: As updated risk models reveal higher exposures, insurers are compelled to raise premiums. In high-risk regions—coastal areas in Florida and wildfire-prone parts of California, for example—homeowners have experienced premium hikes exceeding 50% within just a few years. The situation is compounded by rising costs in the reinsurance market, where the cost to offload risk has soared, forcing primary insurers to pass those expenses on to customers. Even if a particular area hasn’t seen a recent disaster. 
 
 Declining Renewals: As risk assessments evolve and premiums surge, many insurers are choosing not to renew policies in areas that have become too dangerous. In California, severe wildfire seasons have led to high nonrenewal rates, forcing homeowners to rely on state-backed programs like the California FAIR Plan. These programs often offer limited coverage at much higher costs, reducing consumer choice and fueling a cycle of rising prices. The resulting market contraction can further destabilize local economies, particularly in regions where property values and tax bases are already under pressure. 
 
  
 
-Rethinking Risks – Advancements and Effects  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Upcoming Advancements and Trends 
+ Rethinking Risks – 
 
 Product Innovation: 
 New Models for New Risks  
@@ -77,7 +96,6 @@ Modernizing Underwriting for a New Climate
 Companies that relied solely on historical loss data are now scrambling as their underwriting models underestimate future risks. Traditional underwriting once depended on decades-old loss records to predict future risk. Today, as climate change intensifies extreme weather events, these models are proving obsolete. Insurers are increasingly adopting advanced tools—such as satellite imagery, real-time weather feeds, and machine learning—to run “climate stress tests.” These updated assessments have revealed that risk exposures can be as much as 30% higher than previously estimated.  
 
 Claims and Operational Challenges 
-
 Processing the Aftermath 
 
 The surge in claims can overwhelm even the most robust systems. Extreme weather events have led to a dramatic increase in both the frequency and complexity of claims. In many cases, traditional claims processing systems—designed for predictable, historical loss patterns—are unable to cope with the volume and severity of damage now experienced. 
