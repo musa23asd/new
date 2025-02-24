@@ -1,49 +1,29 @@
-Federated Mutual Group	Not publicly disclosed	Estimated ~600	"•Property and Casualty Insurance (Comprehensive coverage for industries such as auto dealers, contractors, equipment dealers, etc.)
-• Life and Disability Insurance (Financial protection solutions for individuals and businesses)
-• Risk Management Services (Resources and tools to help businesses mitigate risks and enhance safety)"	"• Federated Mutual is leveraging AI for underwriting, risk analysis, and fraud detection.
-• AI-driven automation enhances claims processing and customer service efficiency.
-•Predictive analytics are used to optimize policy pricing and risk assessment."
-ICW Group	~$3,000,000 (Estimated)	~500	"• Workers’ Compensation Insurance (Primary focus, providing risk management and claims services)
-• Catastrophe Insurance (Coverage for natural disasters)
-• Assumed Reinsurance (Risk-sharing with other insurers)"	"• ICW Group is leveraging AI to enhance risk assessment, underwriting automation, and claims management.
-• They use predictive analytics to detect fraudulent claims and optimize pricing.
-•AI-powered tools assist in streamlining policy issuance and risk mitigation strategies."
-CUMIS Ins Society	Not publicly disclosed	Estimated ~300	"• Property and Casualty Insurance (Coverage for credit unions and their members against various risks)
-• Credit Insurance (Financial protection solutions for credit union members)
-•Risk Management Services (Consultative and business solutions for credit unions)"	"•CUMIS is leveraging AI for fraud detection and risk management.
-•AI-powered analytics assist in claims processing and underwriting automation.
-•AI-driven insights enhance credit risk assessment and policy pricing."
-Sompo Hldgs US Group	5,076,331	800	"Sompo Holdings is a global insurance company with operations in the U.S. primarily through Sompo International and Sompo Japan Nipponkoa USA. Their business focuses on:
-•	Property & Casualty (P&C) insurance (commercial and personal lines)
-•	Specialty insurance products (e.g., marine, energy, and reinsurane)
-•	Risk management services."	"•	Sompo has shown significant interest in AI and technology-driven innovation. For example, they have invested in AI-powered claims processing and customer service operations.
-•	Sompo's Sompo Digital Lab (in collaboration with Sompo Holdings) focuses on exploring AI, blockchain, and data science to enhance customer experience, streamline operations, and improve underwriting.
-•	They’ve also launched an AI-driven claims system in the U.S., aiming to reduce fraud and speed up the claims process."
-Mercury Casualty Group	4,430,630	600	"Mercury Casualty primarily operates in the Property & Casualty (P&C) insurance market, specializing in:
-•	Auto Insurance (personal lines)
-•	Homeowners Insurance
-•	Commercial Property Insurance."	"•	Mercury Casualty has also shown interest in AI technologies, particularly in the areas of claims automation, fraud detection, and personalized customer experiences.
-•	Mercury leverages AI-based fraud detection systems and data analytics to improve underwriting and risk management, although public statements are limited."
-Assurant P&C Group	3,350,792	700	"Assurance P&C Group is primarily focused on Property and Casualty insurance, with a specialization in: 
-o	Commercial Lines (Property, Liability, Workers' Compensation)
-o	Personal Lines (Homeowners, Auto)"	"•	While specific AI investments for Assurance P&C are not widely publicized, it’s common for companies in this sector to focus on AI-driven claims handling, chatbots for customer service, and predictive analytics to assess risks.
-•	The company is likely to be investing in these areas to enhance its customer experience and improve operational efficiency."
-Citizens Property Ins Corporation	3,307,674	1,200	"•	Citizens Property Insurance Corporation is a government-backed insurance provider that primarily serves Florida residents who are unable to obtain insurance in the private market. Its focus includes: 
-o	Homeowners Insurance (Property, Flood)
-o	Commercial Lines (Property insurance for small businesses)."	"•	Citizens has made investments in claims automation and customer service technologies to improve efficiency in processing claims and handling customer inquiries.
-•	They are focused on improving their underwriting models through the use of big data and predictive analytics."
-Old Republic Ins Group	3,285,678	700	"•	Old Republic Insurance Group operates in both the commercial and personal lines sectors. Their focus areas include: 
-o	Property & Casualty Insurance (e.g., workers’ compensation, commercial property)
-o	Title Insurance (through Old Republic Title)
-o	Surety and Credit Insurance"	"•	Old Republic has shown interest in AI and machine learning for improving its underwriting processes, claims management, and customer service automation.
-•	They are likely focused on improving claims fraud detection, risk assessment, and automated claims processing through AI technologies.
-•	In addition, predictive analytics is a key part of their strategy to improve decision-making and customer experience."
-AF Group			"• AF Group is a holding company for innovative specialty insurance solutions. Their focus areas include:
-   • Workers’ Compensation Insurance (delivered through brands such as Accident Fund, United Heartland, CompWest, Third Coast Underwriters, and Assigned Risk Solutions)
-  • Property Insurance (covering various commercial property risks)
-  • Commercial Auto Insurance
-  • General Liability Insurance
-  • Specialty Insurance Solutions (including offerings like fronting services, captive solutions, and other niche products provided via AF Specialty, Fundamental Underwriters, AmeriTrust Group, Century Insurance Group, and Mackinaw Administrators)"	"•AF Group has utilized AI and cloud-based solutions in its contact center operations. They received the ""Automation Champion of the Year"" award, which reflects their successful use of automation technologies.
+Cause and Effect of Climate change  
 
-•AF Group has adopted AI solutions from Clara Analytics, helping streamline their claims management process.
-(Source: SALESFORCE.COM)                                                                                                             The Hi Marley Insurance Cloud integrates easily with Guidewire and provides a responsive tool that meets policyholders’ changing expectations accelerating the process for approvals and payments."
+Main reasons: 
+
+Cutting down the trees to create multiple forms of paper OR to make wooden furniture OR to generate land to build residential properties or to create farming land. 
+
+Generating electricity and heat by burning fossil fuel such as Coal, Oil and Natural gas cause large chunk of global emission 
+
+Manufacturing and Industry produce emissions mostly from burning fossil fuels to produce energy for making things like Cement, Iron and Steel, Electronics, plastics, clothes etc. 
+
+Most cars, trucks, ships, and planes run on fossil fuels. That makes transportation a major contributor of greenhouse gases (like Carbon dioxide) emission etc. 
+
+Producing food causes emission of Carbon dioxide, methane and other greenhouse gases, including de-forestation for the search of farming land 
+
+Effect of climate change 
+
+Hotter temperature: according to current scientific data, the earth’s temperature is increasing at a rate of roughly 0.15 to 0.2 degree Celsius per decade since 1982. The 10 warmest years in the historical record have all occurred in the past decade (2014-2024). Rising Global temperature has resulted in Wildfire, frequencies have increased by up to 50% in some regions, driven by hotter, drier conditions.  
+
+The ocean soaks up most of the heat and becomes warmer and its volume increases (about 0.13 inches per year). Melting Polar Ice, glaciers also cause sea level rise. With the rise of global sea levels, some coastal areas are experiencing floods (e.g. the Venice ground level sinking by 1 ml each year i.e. it would be 4 ft underwater by end of century). 
+
+Destructive storms have become more intense and more frequent in many regions. 
+
+Climate change is changing water availability and leading to an increased risk of drought. 
+
+The world is losing species at a rate 1000 times greater than any other time in recorded history 
+
+Not enough food for everyone 
+
+Climate impacts are already harming health, through air pollution, disease, extreme weather event pressures, mental health and increased poor nutrition in places where people cannot grow or find sufficient food. 
