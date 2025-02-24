@@ -1,150 +1,44 @@
-Ranit Banerjee	Selective Ins Group	4,134,532	1,500	"Selective Insurance Group provides a wide array of Property & Casualty (P&C) insurance products. Their focus includes:
-•	Commercial Lines (Property, Liability, Workers' Compensation)
-•	Personal Lines (Homeowners, Auto, Umbrella)."	"•	Selective has shown interest in AI for claims management and customer service.
-•	They’ve invested in machine learning to improve their claims automation processes and predictive analytics to enhance underwriting accuracy.
-•	AI-driven chatbots for customer service and AI-powered claims resolution are part of their strategy."	"•	Claims Automation: Selective Insurance uses AI to enhance their claims automation processes, allowing them to speed up claims handling and reduce human error.
-•	Natural Language Processing (NLP): The company likely uses NLP to help their contact centers better understand customer requests and route them more efficiently to the right resources.
-•	Virtual Assistants & Chatbots: To improve customer interaction, Selective uses virtual assistants and AI-based chatbots that can answer policyholder questions and resolve simple issues without involving a human agent."	"•	Selective’s investment in AI will focus on improving customer engagement, expanding self-service capabilities, and using AI analytics to offer tailored products.
-•	The focus is also on enhancing operational efficiency, reducing call waiting times, and improving claim resolution speed with automated workflows."	"•	Specific vendors supporting Selective’s contact center operations are not publicly disclosed, but the company is known to use CRM platforms and possibly AI-based contact center solutions.
-•	Salesforce, Zendesk, and AWS may be vendors providing cloud-based CRM solutions and AI integration for their operations."	"•	Selective is likely to continue advancing its digital transformation, with further investments in AI to improve the customer journey, enhance automation, and optimize risk assessment.
-•	Telematics, IoT, and predictive analytics are expected to play key roles in their future strategy."	"•	Selective Insurance Annual Reports: Selective Insurance Group Investor Relations [Link: https://www.selective.com/]
-•	Press releases and Quarterly Earnings Reports."
-Musaddique	Kemper PC Companies	3,826,269	600	"Kemper is a large provider of Property & Casualty insurance, with a focus on:
-•	Auto Insurance
-•	Homeowners Insurance
-•	Life Insurance (through its subsidiary).
-•	Kemper serves both personal and commercial insurance markets."	"•	Kemper has invested in AI and automation to enhance the customer experience and streamline claims processing.
-•	The company has been leveraging AI for claims triage, fraud detection, and customer service chatbots.
-•	They also invest in cloud-based technologies and machine learning to optimize pricing models and improve risk management."	"•	AI-Driven Claims and Customer Service Automation: Kemper has implemented AI solutions to speed up their claims processing by automating the initial stages of claims triage and approval.
-•	AI-Powered Chatbots: They’ve deployed AI-driven virtual assistants to interact with customers, improving customer satisfaction by providing real-time, 24/7 support.
-•	Predictive Analytics: Kemper is likely using predictive analytics to assess customer behaviors and proactively offer insurance solutions."	"•	AI-powered automation is central to Kemper's digital transformation. They aim to enhance their contact center operations with cloud-based systems and AI tools for fraud detection, customer service, and claims.
-•	Future efforts will likely focus on making claims processing more efficient, improving self-service options for customers, and automating routine tasks to allow agents to focus on more complex issues."	"•	Kemper has been known to partner with Verint, Genesys, and AWS for their contact center technology.
-•	The integration of cloud services and AI-driven analytics is a major part of their contact center strategy."	"•	Kemper is likely to expand its focus on digital insurance solutions, with further investments in AI and machine learning to automate claims and improve customer engagement.
-•	Personalized insurance pricing, claims automation, and enhancing their digital interface for consumers will likely be core to their strategy."	"•	Kemper Annual Reports: Kemper Corporation Investor Relations [Link: https://www.kemper.com/]
-•	Press releases and quarterly earnings calls provide insights into their future investments."
-Musaddique	QBE Americas Group	3,758,732	800	"QBE is the North American arm of QBE Insurance Group, an Australian-based insurer with global operations. The focus of QBE Americas includes: 
-o	Commercial Lines (e.g., property, casualty, workers' compensation, and liability)
-o	Specialty Lines (e.g., marine, aviation, and agriculture)
-o	Personal Lines (e.g., homeowners and auto insurance)"	"•	QBE has shown interest in AI and machine learning for claims automation, risk assessment, and customer experience improvement.
-•	They have worked on developing AI-driven platforms for faster claims processing and improving the underwriting process by analyzing large datasets.
-•	In 2020, QBE partnered with Tractable, an AI startup focused on damage appraisals and claims handling, to incorporate AI into their auto insurance claims process."	"•	AI for Claims Handling: QBE uses AI to automate and optimize their claims processes, including using image recognition and machine learning to process claims more quickly.
-•	Customer Engagement: AI is used to improve customer engagement through personalized customer experiences. Chatbots handle routine inquiries, allowing human agents to focus on more complex requests.
-•	Fraud Detection: QBE deploys AI to monitor claims for fraudulent patterns, using algorithms that analyze historical data for suspicious activity."	"•	QBE is focused on expanding its use of AI-driven technologies to streamline claims processing, improve customer support automation, and enhance fraud detection in contact center operations.
-•	The future emphasis is likely on expanding AI in the form of digital assistants for self-service and machine learning algorithms to improve underwriting accuracy."	"•	QBE has partnered with various vendors to improve its digital offerings, including cloud-based contact center solutions and AI chatbots for customer service.
-•	Vendors like Amazon Web Services (AWS) for cloud services and Tractable for AI-driven claims management have been involved in their AI and digital transformation strategy."	"•	QBE is expected to continue investing in digital transformation, AI, and cloud-based solutions.
-•	Focus on data-driven decision-making in underwriting and claims, as well as exploring more efficient ways to serve customers through AI-powered digital assistants and automated claims processing."	"•	QBE Insurance Annual Reports: QBE Americas Investor Relations [Link: https://www.qbe.com/us]
-•	Press releases: QBE Newsroom [Link: https://www.qbe.com/us/news]"
-Musaddique	Sentry Ins Group	3,551,019	900	"Sentry Insurance is a mutual insurance company based in the U.S. with a focus on: 
-o	Commercial Lines (Property, Casualty, Workers' Compensation)
-o	Personal Lines (Auto, Homeowners, Umbrella)
-o	Group Benefits (Life, Disability)"	"•	Sentry has been exploring AI in claims processing and customer service automation.
-•	Investments in chatbots and machine learning are part of their ongoing strategy to enhance customer experiences and improve operational efficiencies.
-•	They are also leveraging predictive analytics for better risk management and pricing."	"•	Automated Claims Processing: Sentry is leveraging AI to automate its claims triage system, allowing for faster claims settlement by using AI-driven workflows.
-•	AI-Enabled Customer Service: They use chatbots and virtual assistants powered by AI to offer around-the-clock support for common customer inquiries such as policy details, payments, and claims statuses.
-•	Speech Recognition & NLP: AI is likely used for speech recognition and NLP in customer service interactions, allowing agents to focus on higher-value tasks and reducing call handling times."	"•	Sentry’s focus on AI and automation in the contact center is geared toward improving efficiency, customer satisfaction, and claims automation.
-•	Their strategy is likely to focus on expanding self-service tools, improving chatbot capabilities, and utilizing predictive analytics to optimize claims management."	"•	Specific vendors supporting Sentry's contact center are not publicly detailed, but large insurers often use CRM solutions like Salesforce or Genesys for customer engagement.
-•	Additionally, AWS and Google Cloud may support their AI and machine learning operations."	"•	Continued automation of the claims process and expansion of AI-based solutions for customer support.
-•	Focus on improving customer retention and enhancing the personalization of insurance products through data analytics."	"•	Sentry Insurance Annual Reports: Sentry Insurance Investor Relations [Link: https://www.sentry.com/about-us]
-•	Press releases and investor reports on digital transformation."
-Priya	Old Republic Ins Group	3,285,678	700	"•	Old Republic Insurance Group operates in both the commercial and personal lines sectors. Their focus areas include: 
-o	Property & Casualty Insurance (e.g., workers’ compensation, commercial property)
-o	Title Insurance (through Old Republic Title)
-o	Surety and Credit Insurance"	"•	Old Republic has shown interest in AI and machine learning for improving its underwriting processes, claims management, and customer service automation.
-•	They are likely focused on improving claims fraud detection, risk assessment, and automated claims processing through AI technologies.
-•	In addition, predictive analytics is a key part of their strategy to improve decision-making and customer experience."	"•	AI-Powered Claims Processing: Old Republic uses AI to automate parts of their claims process, allowing them to reduce the time it takes to settle claims and improve overall claims accuracy.
-•	Chatbots & Virtual Assistants: They likely employ AI-driven chatbots to handle customer queries related to policy changes, claim statuses, and coverage questions.
-•	AI for Fraud Prevention: AI is used to identify fraudulent claims and improve risk assessment by analyzing patterns in data."	"•	Old Republic is expanding its use of cloud solutions and AI tools for contact center operations, focusing on claims automation, fraud detection, and enhancing customer self-service capabilities.
-•	In the future, their strategy is likely to emphasize improving operational efficiency, automating routine tasks, and offering more AI-powered self-service options to customers."	"•	Old Republic, like other large insurers, likely uses established CRM platforms and cloud contact center solutions to streamline its operations.
-•	Vendors like Salesforce, Verint, or Genesys could be involved, though specific contracts are not publicly disclosed."	"•	Old Republic’s strategy will likely focus on enhancing digital capabilities, particularly claims automation and AI-based fraud prevention.
-•	They may also look into more data-driven approaches to improve customer service, risk management, and operational efficiency."	"•	Old Republic Annual Reports: Old Republic International Investor Relations [Link: https://www.oldrepublic.com/]
-•	Investor calls, earnings reports, and press releases often reveal key information on AI and digital initiatives."
-Priya	Federated Mutual Group	Not publicly disclosed	Estimated ~600	"•Property and Casualty Insurance (Comprehensive coverage for industries such as auto dealers, contractors, equipment dealers, etc.)
+Federated Mutual Group	Not publicly disclosed	Estimated ~600	"•Property and Casualty Insurance (Comprehensive coverage for industries such as auto dealers, contractors, equipment dealers, etc.)
 • Life and Disability Insurance (Financial protection solutions for individuals and businesses)
 • Risk Management Services (Resources and tools to help businesses mitigate risks and enhance safety)"	"• Federated Mutual is leveraging AI for underwriting, risk analysis, and fraud detection.
 • AI-driven automation enhances claims processing and customer service efficiency.
-•Predictive analytics are used to optimize policy pricing and risk assessment."	"• AI-powered chatbots assist in handling policy inquiries and claim status updates.
-• AI-driven fraud detection helps identify suspicious claims and reduce losses.
-• Machine learning enhances customer interactions by predicting service needs."	"• Federated Mutual is expanding cloud-based contact center solutions to improve customer engagement.
-• AI and automation streamline routine inquiries and enhance service response time.
-• Future initiatives include the integration of AI-driven virtual assistants for real-time customer support."	"• Likely partners with CRM and contact center solution providers such as Salesforce, Verint, or Genesys.
-•No specific vendor contracts are publicly disclosed."	"• Plans to expand AI applications in underwriting and customer service.
-•Continued investment in digital platforms to improve policyholder experience."	"• [Federated Insurance](https://www.federatedinsurance.com/)
-• [Federated Mutual Insurance - Wikipedia](https://en.wikipedia.org/wiki/Federated_Mutual_Insurance_Company)"
-Priya	ICW Group	~$3,000,000 (Estimated)	~500	"• Workers’ Compensation Insurance (Primary focus, providing risk management and claims services)
+•Predictive analytics are used to optimize policy pricing and risk assessment."
+ICW Group	~$3,000,000 (Estimated)	~500	"• Workers’ Compensation Insurance (Primary focus, providing risk management and claims services)
 • Catastrophe Insurance (Coverage for natural disasters)
 • Assumed Reinsurance (Risk-sharing with other insurers)"	"• ICW Group is leveraging AI to enhance risk assessment, underwriting automation, and claims management.
 • They use predictive analytics to detect fraudulent claims and optimize pricing.
-•AI-powered tools assist in streamlining policy issuance and risk mitigation strategies."	"• AI-driven automation is used to process claims faster and improve settlement accuracy.
-• Chatbots and virtual assistants handle policy inquiries, claims status updates, and FAQs.
-•AI is deployed for fraud detection, helping to flag suspicious claims."	"• ICW Group is actively adopting cloud-based contact center technologies to improve customer service efficiency.
-• AI is integrated to enhance fraud detection, claims processing automation, and customer interactions.
-• Plans to expand automation for customer engagement and operational efficiency."	"• Likely uses established CRM and contact center solutions such as Salesforce, Verint, or Genesys to streamline operations.
-• No specific vendor contracts are publicly disclosed."	"• Plans to broaden AI integration in claims processing and customer support.
-•Continued focus on enhancing digital interfaces for improved user experience."	"• [ICW Group](https://www.icwgroup.com/)
-• [About ICW Group](https://www.icwgroup.com/about/)"
-Priya	CUMIS Ins Society	Not publicly disclosed	Estimated ~300	"• Property and Casualty Insurance (Coverage for credit unions and their members against various risks)
+•AI-powered tools assist in streamlining policy issuance and risk mitigation strategies."
+CUMIS Ins Society	Not publicly disclosed	Estimated ~300	"• Property and Casualty Insurance (Coverage for credit unions and their members against various risks)
 • Credit Insurance (Financial protection solutions for credit union members)
 •Risk Management Services (Consultative and business solutions for credit unions)"	"•CUMIS is leveraging AI for fraud detection and risk management.
 •AI-powered analytics assist in claims processing and underwriting automation.
-•AI-driven insights enhance credit risk assessment and policy pricing."	"•AI chatbots and virtual assistants provide automated support for policy inquiries and claims status updates.
-• AI tools optimize claims fraud detection and accelerate claims settlements.
-•Predictive analytics assist in personalizing customer interactions and improving service efficiency."	"•CUMIS is integrating cloud-based solutions to enhance customer service and policy management.
-• AI and automation streamline routine interactions and improve customer experience.
-•Future plans include expanding digital self-service options for policyholders."	"• Likely utilizes CRM and contact center solutions such as Salesforce, Verint, or Genesys.
-• No specific vendor contracts are publicly disclosed."	"• Plans to further integrate AI into claims processing and customer service operations.
-• Continued focus on expanding digital services to meet evolving customer needs."	• [Cumins Insurance Society](https://www.cumins.com/)
-Ranit Banerjee	Sompo Hldgs US Group	5,076,331	800	"Sompo Holdings is a global insurance company with operations in the U.S. primarily through Sompo International and Sompo Japan Nipponkoa USA. Their business focuses on:
+•AI-driven insights enhance credit risk assessment and policy pricing."
+Sompo Hldgs US Group	5,076,331	800	"Sompo Holdings is a global insurance company with operations in the U.S. primarily through Sompo International and Sompo Japan Nipponkoa USA. Their business focuses on:
 •	Property & Casualty (P&C) insurance (commercial and personal lines)
 •	Specialty insurance products (e.g., marine, energy, and reinsurane)
 •	Risk management services."	"•	Sompo has shown significant interest in AI and technology-driven innovation. For example, they have invested in AI-powered claims processing and customer service operations.
 •	Sompo's Sompo Digital Lab (in collaboration with Sompo Holdings) focuses on exploring AI, blockchain, and data science to enhance customer experience, streamline operations, and improve underwriting.
-•	They’ve also launched an AI-driven claims system in the U.S., aiming to reduce fraud and speed up the claims process."	"•	AI Chatbots: Sompo has been investing in AI-powered chatbots to enhance their customer service and support functions, allowing for more efficient and scalable interactions with policyholders.
-•	Claims Automation: AI plays a key role in automating claims processing. Sompo uses AI to assess damage, determine claim validity, and optimize the claims settlement process.
-•	Sentiment Analysis: Using natural language processing (NLP), Sompo is likely leveraging AI to analyze customer sentiment in real-time, helping agents provide more personalized responses."	"•	Sompo’s focus is on AI-driven automation for claims handling and customer support, aiming to reduce operational costs and enhance customer experience.
-•	They’re also exploring predictive analytics to anticipate customer needs and proactively address issues, minimizing the number of interactions needed."	"•	Specific vendors supporting Sompo’s U.S. contact centers are not always publicly disclosed. However, AI-based solutions like chatbots and automated claims systems are commonly used.
-•	For example, Sompo has partnered with Cognizant (a leading technology vendor) for claims automation.
-•	Vendor Contracts: These details are typically confidential, but Sompo’s annual reports or regulatory filings might provide some information on their major vendors in IT and digital transformation."	"•	Sompo is expected to continue investing in digitalization, AI-driven automation, and expanding insurtech partnerships.
-•	They aim to enhance their global customer service network and further develop predictive analytics to improve risk management and pricing strategies."	"•	Sompo Holdings’ Annual Reports: Sompo Holdings Investor Relations [Link: https://www.sompo-holdings.co.jp/english/]
-•	Press releases for AI investments: Sompo Newsroom [https://www.sompo-holdings.co.jp/english/news/]                                                                         • AI  Chatbot                                                                    https://www.jetlink.io/sompo-insurance-chatbot-case-study"
-Ranit Banerjee	Mercury Casualty Group	4,430,630	600	"Mercury Casualty primarily operates in the Property & Casualty (P&C) insurance market, specializing in:
+•	They’ve also launched an AI-driven claims system in the U.S., aiming to reduce fraud and speed up the claims process."
+Mercury Casualty Group	4,430,630	600	"Mercury Casualty primarily operates in the Property & Casualty (P&C) insurance market, specializing in:
 •	Auto Insurance (personal lines)
 •	Homeowners Insurance
 •	Commercial Property Insurance."	"•	Mercury Casualty has also shown interest in AI technologies, particularly in the areas of claims automation, fraud detection, and personalized customer experiences.
-•	Mercury leverages AI-based fraud detection systems and data analytics to improve underwriting and risk management, although public statements are limited."	"•	AI-Powered Claims Management: Mercury Casualty has invested in AI for claims automation, which helps the company process claims more quickly and accurately by leveraging machine learning (ML) algorithms.
-•	Fraud Detection: They use AI models for fraud detection in claims, which can identify patterns of fraudulent behavior through analysis of large datasets.
-•	Chatbots and Virtual Assistants: Mercury has implemented AI-powered chatbots to handle customer queries, freeing up human agents to handle more complex cases."	"•	Mercury is looking to leverage AI to create a more personalized customer experience. Their future AI efforts will likely focus on expanding self-service options and enhancing the use of predictive analytics to help with underwriting and claims processing."	"•	Specific vendors for Mercury's contact center operations are harder to determine, but given their focus on automation and customer experience, they likely use major CRM and contact center solutions.
-•	Vendors like Genesys, Verint, and Amazon Web Services (AWS) are common in the industry for call center and AI support. However, no specific vendor partnerships are available in the public domain for Mercury."	"•	Mercury is expected to continue enhancing its digital capabilities, especially with regard to AI in underwriting and claims automation.
-•	Telematics and AI-powered pricing models could play a role in their future strategy, especially in personal auto insurance."	"•	Mercury Casualty Annual Reports: Mercury Insurance Investor Relations [Link: https://www.mercuryinsurance.com/]
-•	Recent press releases or earnings calls could reveal more about AI and future plans."
-Ranit Banerjee	Assurant P&C Group	3,350,792	700	"Assurance P&C Group is primarily focused on Property and Casualty insurance, with a specialization in: 
+•	Mercury leverages AI-based fraud detection systems and data analytics to improve underwriting and risk management, although public statements are limited."
+Assurant P&C Group	3,350,792	700	"Assurance P&C Group is primarily focused on Property and Casualty insurance, with a specialization in: 
 o	Commercial Lines (Property, Liability, Workers' Compensation)
 o	Personal Lines (Homeowners, Auto)"	"•	While specific AI investments for Assurance P&C are not widely publicized, it’s common for companies in this sector to focus on AI-driven claims handling, chatbots for customer service, and predictive analytics to assess risks.
-•	The company is likely to be investing in these areas to enhance its customer experience and improve operational efficiency."	"•	AI-Driven Claims Automation: Assurance P&C has been implementing AI to help with automated claims resolution, reducing the manual effort needed for claims processing and improving response times.
-•	Virtual Assistants: They are likely using AI-powered virtual assistants for handling basic customer inquiries, thus improving the speed and quality of customer support.
-•	Predictive Analytics for Risk Assessment: AI is used to analyze historical data, enabling the company to offer personalized quotes and anticipate customer needs."	"•	Assurance P&C’s AI initiatives are likely focused on enhancing the efficiency of their contact center operations by integrating automated claims handling, AI customer assistants, and predictive analytics into their contact workflows.
-•	In the near future, they may also focus on AI-powered underwriting to enhance policyholder engagement and retention."	"•	Vendors for AI chatbots, contact center solutions, and CRM systems are typically used in the P&C industry, with companies like Verint, Salesforce, or Zendesk supporting these initiatives."	"•	The company is expected to expand its use of automated claims and digital assistants to enhance customer engagement and streamline processes."	"•	Assurance P&C Group might not have a centralized website, but look for press releases, public filings, or industry reports."
-Musaddique	Citizens Property Ins Corporation	3,307,674	1,200	"•	Citizens Property Insurance Corporation is a government-backed insurance provider that primarily serves Florida residents who are unable to obtain insurance in the private market. Its focus includes: 
+•	The company is likely to be investing in these areas to enhance its customer experience and improve operational efficiency."
+Citizens Property Ins Corporation	3,307,674	1,200	"•	Citizens Property Insurance Corporation is a government-backed insurance provider that primarily serves Florida residents who are unable to obtain insurance in the private market. Its focus includes: 
 o	Homeowners Insurance (Property, Flood)
 o	Commercial Lines (Property insurance for small businesses)."	"•	Citizens has made investments in claims automation and customer service technologies to improve efficiency in processing claims and handling customer inquiries.
-•	They are focused on improving their underwriting models through the use of big data and predictive analytics."	"•	Assurance P&C’s AI initiatives are likely focused on enhancing the efficiency of their contact center operations by integrating automated claims handling, AI customer assistants, and predictive analytics into their contact workflows.
-•	In the near future, they may also focus on AI-powered underwriting to enhance policyholder engagement and retention."	"•	Citizens' strategy is likely to continue focusing on improving the efficiency of their contact center operations by integrating AI for claims automation, fraud detection, and customer self-service.
-•	They will likely prioritize data-driven customer support and further invest in AI tools for enhancing the customer journey and improving claims satisfaction."	"•	Vendors for cloud contact center services, CRM platforms, and AI-driven claims systems are typically used in these scenarios.
-•	While exact vendor names aren't publicly disclosed, it is possible that Citizens works with firms like Salesforce, Amazon Connect, or Verint for customer engagement."	"•	Citizens is expected to continue digital transformation, focusing on further claims automation and improving customer engagement through digital channels.
-•	Additionally, they may increase their focus on AI-driven decision-making in risk assessment and predictive analytics for claims."	"•	Citizens Insurance Annual Reports: Citizens Property Insurance Corporation [Link: https://www.citizensfla.com/]
-•	Look for regulatory filings or press releases for updates on their technology and digital transformation."
-Musaddique	Old Republic Ins Group	3,285,678	700	"•	Old Republic Insurance Group operates in both the commercial and personal lines sectors. Their focus areas include: 
+•	They are focused on improving their underwriting models through the use of big data and predictive analytics."
+Old Republic Ins Group	3,285,678	700	"•	Old Republic Insurance Group operates in both the commercial and personal lines sectors. Their focus areas include: 
 o	Property & Casualty Insurance (e.g., workers’ compensation, commercial property)
 o	Title Insurance (through Old Republic Title)
 o	Surety and Credit Insurance"	"•	Old Republic has shown interest in AI and machine learning for improving its underwriting processes, claims management, and customer service automation.
 •	They are likely focused on improving claims fraud detection, risk assessment, and automated claims processing through AI technologies.
-•	In addition, predictive analytics is a key part of their strategy to improve decision-making and customer experience."	"•	AI-Powered Claims Processing: Old Republic uses AI to automate parts of their claims process, allowing them to reduce the time it takes to settle claims and improve overall claims accuracy.
-•	Chatbots & Virtual Assistants: They likely employ AI-driven chatbots to handle customer queries related to policy changes, claim statuses, and coverage questions.
-•	AI for Fraud Prevention: AI is used to identify fraudulent claims and improve risk assessment by analyzing patterns in data."	"•	Old Republic is expanding its use of cloud solutions and AI tools for contact center operations, focusing on claims automation, fraud detection, and enhancing customer self-service capabilities.
-•	In the future, their strategy is likely to emphasize improving operational efficiency, automating routine tasks, and offering more AI-powered self-service options to customers."	"•	Old Republic, like other large insurers, likely uses established CRM platforms and cloud contact center solutions to streamline its operations.
-•	Vendors like Salesforce, Verint, or Genesys could be involved, though specific contracts are not publicly disclosed."	"•	Old Republic’s strategy will likely focus on enhancing digital capabilities, particularly claims automation and AI-based fraud prevention.
-•	They may also look into more data-driven approaches to improve customer service, risk management, and operational efficiency."	"•	Old Republic Annual Reports: Old Republic International Investor Relations [Link: https://www.oldrepublic.com/]
-•	Investor calls, earnings reports, and press releases often reveal key information on AI and digital initiatives."
-Musaddique	AF Group			"• AF Group is a holding company for innovative specialty insurance solutions. Their focus areas include:
+•	In addition, predictive analytics is a key part of their strategy to improve decision-making and customer experience."
+AF Group			"• AF Group is a holding company for innovative specialty insurance solutions. Their focus areas include:
    • Workers’ Compensation Insurance (delivered through brands such as Accident Fund, United Heartland, CompWest, Third Coast Underwriters, and Assigned Risk Solutions)
   • Property Insurance (covering various commercial property risks)
   • Commercial Auto Insurance
@@ -152,6 +46,4 @@ Musaddique	AF Group			"• AF Group is a holding company for innovative specialt
   • Specialty Insurance Solutions (including offerings like fronting services, captive solutions, and other niche products provided via AF Specialty, Fundamental Underwriters, AmeriTrust Group, Century Insurance Group, and Mackinaw Administrators)"	"•AF Group has utilized AI and cloud-based solutions in its contact center operations. They received the ""Automation Champion of the Year"" award, which reflects their successful use of automation technologies.
 
 •AF Group has adopted AI solutions from Clara Analytics, helping streamline their claims management process.
-(Source: SALESFORCE.COM)                                                                                                             The Hi Marley Insurance Cloud integrates easily with Guidewire and provides a responsive tool that meets policyholders’ changing expectations accelerating the process for approvals and payments."	AF Group has utilized AI and cloud-based solutions in its contact center operations. They received the "Automation Champion of the Year" award, which reflects their successful use of automation technologies.	The Hi Marley Insurance Cloud integrates easily with Guidewire and provides a responsive tool that meets policyholders’ changing expectations accelerating the process for approvals and payments.	Clara Analytics, Hi Marlry(Cloud- based)	"Expansion and Growth: In anticipation of continued growth, AF Group announced plans to hire over 200 employees in 2025. This expansion reflects the company's strategic focus on enhancing its technological capabilities, including AI integration, to better serve its expanding customer base.                     Digital Transformation: AF Group's investment in AI-powered solutions, such as the automated billing chatbot, indicates a commitment to digitalizing customer service processes.
-Operational Efficiency: By automating routine tasks, AF Group aims to enhance operational efficiency, allowing staff to concentrate on more complex and value-added activities.
-Customer Experience Enhancement: The integration of AI technologies is intended to provide a more seamless and responsive experience for customers, aligning with industry trends toward personalized and efficient service delivery."	AF Group  Annual Reports
+(Source: SALESFORCE.COM)                                                                                                             The Hi Marley Insurance Cloud integrates easily with Guidewire and provides a responsive tool that meets policyholders’ changing expectations accelerating the process for approvals and payments."
