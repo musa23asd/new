@@ -1,75 +1,96 @@
-Below is a revised version of the “Cause and Effect of Climate Change” section that includes year‐wise comparisons (where applicable) and places evidence links immediately after each data point.
+User Story Title		
+AI Agent Notifies Customer About Upcoming Renewal	
+
+User Story
+As an AI system,
+I want to automatically send renewal reminders to customers via email and letter,
+So that they are aware of their upcoming policy renewal and can take timely action.
+
+Acceptance Criteria
+1. The AI system should check the policy database for policies expiring within the next 30 days.
+2. The AI should trigger an automated email and physical letter reminding the customer of renewal.
+3. The notification should include:
+-Policy number
+-Expiry date
+-Instructions to renew via the contact center or online
+4.The AI should log notification timestamps in the system.
+5. If the customer has already renewed, the system should suppress the notification."
+
+Similarly below
+
+User Story Title	
+AI Agent Handles Customer Call for Policy Renewal	
 
 
----
+User Story
+As an AI agent,
 
-2. Cause and Effect of Climate Change
+I want to greet the customer and understand their request,
+So that I can guide them through the policy renewal process efficiently."	
 
-Climate change is driven by a variety of human activities, and its effects are being felt across the globe. While some of the following data use global or US examples as benchmarks, these trends are broadly applicable worldwide.
+1. The AI agent should greet the customer and inform them that the call may be recorded.
+2. The AI agent should prompt the customer to provide their policy number.
+3. If the customer does not have the policy number, AI should allow lookup via:
+-Name and date of birth
+-Registered email or phone number
+4. The AI should validate the policy details against the system.
+5. If the policy is found, AI should proceed; otherwise, transfer to a human agent."
 
-2.1 Main Reasons
+AI Agent Confirms Customer Identity	
 
-Deforestation
-Trees are cut down for paper, furniture, farmland, and residential areas, reducing the Earth’s capacity to absorb carbon dioxide.
-Comparison: In the 1990s, global deforestation was estimated at around 16 million hectares per year, which declined to about 10 million hectares per year during 2015–2020—but recent wildfire events have accelerated tree cover loss, with some regions reporting losses up to 28 million hectares in 2023.
-Source: FAO State of Forests
+As an AI agent,
+I want to validate the customer's identity using their date of birth,
+So that I can ensure secure access to policy details.
 
-Burning Fossil Fuels
-The generation of electricity and heat from coal, oil, and natural gas releases large amounts of greenhouse gases.
-Comparison: Global fossil fuel emissions increased by roughly 51% from 1990 to 2021, and after a temporary dip during the early 2020s, emissions rebounded by 0.8% in 2024 due to increased activity in sectors like aviation and coal power.
-Source: World Resources Institute – Greenhouse Gas Emissions by Sector
+1. The AI agent should ask the customer to confirm their date of birth.
+2. AI should match the provided date of birth with system records.
+3. If the date does not match, AI should allow up to two retries before escalating.
+4. If the customer fails verification, AI should transfer them to a human agent.
+5. If the details match, AI should proceed with renewal."
 
-Industrial Emissions
-Factories burning fossil fuels to produce cement, steel, plastics, electronics, and clothing contribute substantially to carbon emissions.
-Comparison: Industrial CO₂ emissions increased by about 50% between 1990 and 2015; more recent estimates for 2023 show that industrial processes contributed roughly 6.5 gigatonnes of CO₂-equivalent emissions globally.
-Source: EPA – Global Greenhouse Gas Emissions
+AI Agent Provides Policy Renewal Details	
 
-Transportation
-Cars, trucks, ships, and airplanes, which mostly run on fossil fuels, are major sources of greenhouse gas emissions.
-Comparison: In 2023, the transportation sector emitted approximately 8.4 gigatonnes of CO₂-equivalent, with a notable increase of about 7.8% from previous years as activity rebounded post-pandemic.
-Source: Visual Capitalist – Global GHG Emissions by Sector
+As an AI agent,
+I want to inform the customer about their policy expiration and any available modifications,
+So that they can update their policy if required before renewal.
 
-Food Production
-Farming releases carbon dioxide, methane, and other gases. Additionally, deforestation for agriculture worsens the climate impact.
-Comparison: In 2023, the agriculture sector was responsible for about 6.5 gigatonnes of CO₂-equivalent emissions, reflecting both direct emissions and those from land-use changes—a significant increase from earlier decades.
-Source: Visual Capitalist – Global GHG Emissions by Sector
+1. AI should retrieve and communicate the policy expiry date.
+2. AI should ask if the customer wants to make any changes to:
+-Coverage type
+-Vehicle details
+-Named drivers
+3. If changes are requested, AI should escalate to a human agent.
+4. If no changes are needed, AI should proceed with the renewal process."
 
+AI Agent Confirms Renewal Amount and Payment Option	
 
-2.2 Effects of Climate Change
+As an AI agent,
+I want to retrieve the renewal premium and offer payment options,
+So that the customer can complete the renewal conveniently.
 
-Rising Temperatures
-The Earth's temperature has been increasing at a rate of 0.15 to 0.2°C per decade since 1982.
-Comparison: The decade 2014–2024 recorded the highest average temperatures on record, contributing to a nearly 50% increase in wildfire incidents in some regions compared to the 1980s.
-Source: NOAA Global Temperature Data
+1. AI should fetch the premium amount from the system.
+2. AI should confirm the renewal cost with the customer.
+3.If the customer disagrees with the amount, AI should provide details on pricing.
+4. AI should offer multiple payment methods:
+-Credit card
+-Debit card
+-Bank transfer
+-Payment link
+5. AI should confirm the selected payment method and proceed accordingly."
 
-Rising Sea Levels
-Oceans are absorbing excess heat, causing water to expand at approximately 0.13 inches per year.
-Comparison: Since 1982, sea levels have risen gradually; projections for Venice show it is sinking by about 1mm per year, with estimates that the city could be 4 feet underwater by the end of the century if current trends continue.
-Source: NOAA Sea Level Rise Data
+AI Agent Collects and Processes Payment	
 
-Extreme Weather
-Storms are becoming stronger and more frequent, and droughts are increasing due to altered water availability.
-Comparison: Global analyses reveal that extreme weather events have increased markedly since the 1980s, with some regions experiencing a 20–30% rise in severe storm frequency between 2000 and 2023.
-Source: IPCC AR6 Report
+As an AI agent,
+I want to collect the customer's payment details securely,
+So that I can complete the policy renewal transaction.
 
-Loss of Biodiversity
-Species are disappearing at a rate 1,000 times faster than the natural background rate due to habitat destruction and climate shifts.
-Comparison: Recent studies indicate that extinction rates have accelerated significantly in the past two decades compared to historical baselines, a trend observed worldwide.
-Source: WWF Living Planet Report
+1. If paying via card, AI should request:
+-Card number
+-Expiry date
+2. If using a payment link, AI should send the link via SMS and email.
+3.AI should validate payment details before processing.
+4. If the payment fails, AI should allow retries or suggest another method.
+5. If successful, AI should confirm the transaction and proceed."
 
-Food Shortages
-Climate change affects crop growth and can lead to food scarcity across various regions.
-Comparison: Analyses show that in some regions, such as parts of sub-Saharan Africa and South Asia, crop yields have declined by up to 20% in recent decades compared to historical averages, increasing food insecurity.
-Source: FAO – The State of Food Security and Nutrition in the World
-
-Health Issues
-Air pollution, extreme weather, and food shortages contribute to rising rates of diseases, mental health issues, and malnutrition, particularly among vulnerable populations.
-Comparison: According to the WHO, heat-related illnesses and respiratory conditions have increased by 10–15% in many regions since the early 2000s, with the most dramatic rises seen during the hottest years (e.g., 2014–2024).
-Source: World Health Organization – Climate Change and Health
-
-
-
----
-
-This version provides year-wise comparisons and evidence links immediately below each data point, offering a general overview of the causes and effects of climate change that is applicable globally, with illustrative examples from various regions. Let me know if you need any further adjustments or additions.
-
+AI Agent Confirms Successful Renewal and Sends Policy Documents		
+AI Agent Closes the Call 		
