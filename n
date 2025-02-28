@@ -16,3 +16,285 @@ Recent regulatory moves—such as the SEC’s proposed climate disclosure requir
 https://www.bcg.com/publications/2017/total-societal-impact-new-lens-strategy
 
 More insurers are also expanding their policy portfolio to cover renewable energy projects, including Hiscox, ■ which plans to launch an ESG-focused syndicate at Lloyd's to help capitalize on increasing interest and investment in green technologies. Such sustainabil-ity-focused efforts could go a long way in helping to enhance the industry's brand.
+
+
+Below is a comprehensive end‐to‐end specification for the “policy renewal with change in coverage” use case. In these stories, I’ve brainstormed various titles and refined the acceptance criteria to include robust, multi‐factor identity verification (MFA) to reduce the risk of impersonation.
+
+
+---
+
+User Story Title
+AI Agent Notifies Customer About Upcoming Renewal with Coverage Update Options
+
+User Story
+As an AI system,
+I want to automatically send renewal reminders that not only inform customers of their upcoming renewal but also highlight options for modifying their coverage,
+So that customers are aware of both their renewal date and available updates to better suit their current needs.
+
+Acceptance Criteria
+
+1. The AI system shall check the policy database for policies expiring within the next 30 days.
+
+
+2. The system shall trigger an automated email and physical letter that include:
+
+Policy number
+
+Expiry date
+
+A note indicating that coverage updates are available
+
+Instructions for initiating a coverage modification request
+
+
+
+3. The system shall log the notification timestamp.
+
+
+4. If the customer has already renewed or initiated coverage changes, the system shall suppress the reminder.
+
+
+
+
+---
+
+User Story Title
+AI Agent Handles Customer Call for Policy Renewal with Coverage Changes
+
+User Story
+As an AI agent,
+I want to greet the customer and determine whether they want to renew their policy and update their coverage,
+So that I can efficiently direct the call into either a standard renewal or a coverage modification process.
+
+Acceptance Criteria
+
+1. The AI agent shall greet the customer and inform them that the call may be recorded.
+
+
+2. The agent shall prompt the customer to provide their policy number.
+
+
+3. If the customer does not have their policy number, the agent shall allow lookup via registered details (e.g., name and date of birth).
+
+
+4. The AI agent shall validate the provided policy details against the system.
+
+
+5. Once validated, the agent shall ask whether the customer wishes to update any coverage options.
+
+
+6. Based on the response, the call shall branch to either the standard renewal process or the coverage modification process.
+
+
+7. If the policy is not found, the call shall be escalated to a human agent.
+
+
+
+
+---
+
+User Story Title
+AI Agent Confirms Customer Identity with Multi‐Factor Authentication
+
+User Story
+As an AI agent,
+I want to verify the customer’s identity using multi‐factor authentication (MFA) that includes their date of birth, a one-time passcode (OTP) sent to their registered phone, and a secondary identifier (such as the last four digits of their policy number),
+So that I can securely confirm that the customer is the authorized policyholder and prevent fraudulent renewals.
+
+Acceptance Criteria
+
+1. The AI agent shall prompt the customer to confirm their date of birth.
+
+
+2. The agent shall retrieve the customer’s registered phone number and send an OTP valid for 5 minutes.
+
+
+3. The agent shall prompt the customer to enter the OTP received on their phone.
+
+
+4. The system shall verify that the entered OTP matches and is submitted within the valid time frame.
+
+
+5. The agent shall also prompt for a secondary identifier (e.g., the last four digits of the policy number) and verify it against system records.
+
+
+6. If any verification step fails, the agent shall allow up to two additional attempts before escalating the call to a human agent.
+
+
+7. Upon successful verification, the system shall log the identity confirmation and continue with the renewal process.
+
+
+
+
+---
+
+User Story Title
+AI Agent Presents Coverage Modification Options
+
+User Story
+As an AI agent,
+I want to present the customer with available options to modify their coverage during renewal,
+So that they can choose to adjust their policy limits, add extra coverages, or remove unnecessary options to better fit their current needs.
+
+Acceptance Criteria
+
+1. The AI agent shall retrieve the current coverage details from the system.
+
+
+2. The agent shall ask the customer whether they wish to update any part of their coverage.
+
+
+3. If the customer opts to modify coverage, the agent shall display a list of modification options (e.g., increasing/decreasing limits, adding extra coverage like roadside assistance, etc.).
+
+
+4. The customer’s selection shall be logged and confirmed before proceeding.
+
+
+5. If the customer declines modifications, the agent shall confirm that the existing coverage will be renewed as is.
+
+
+
+
+---
+
+User Story Title
+AI Agent Reviews Updated Policy Renewal Details
+
+User Story
+As an AI agent,
+I want to review the updated policy details—including any coverage modifications—with the customer,
+So that the customer is fully informed of the revised renewal terms before final confirmation.
+
+Acceptance Criteria
+
+1. The AI agent shall retrieve the updated policy details reflecting any modifications.
+
+
+2. The agent shall present a summary of the updated coverage, premium changes, and renewal date to the customer.
+
+
+3. The customer shall be prompted to confirm the updated details.
+
+
+4. If further changes are requested, the agent shall return to the coverage modification options.
+
+
+5. Once confirmed, the system shall lock in the updated renewal details and log the confirmation.
+
+
+
+
+---
+
+User Story Title
+AI Agent Confirms Renewal Amount and Payment Option
+
+User Story
+As an AI agent,
+I want to retrieve the updated renewal premium based on the new coverage settings and offer multiple payment options,
+So that the customer can confirm the premium and complete the renewal transaction conveniently.
+
+Acceptance Criteria
+
+1. The AI agent shall fetch the updated premium amount from the system reflecting the coverage changes.
+
+
+2. The agent shall confirm the renewal cost with the customer and explain any adjustments due to coverage modifications.
+
+
+3. If the customer disputes the amount, the agent shall provide a detailed pricing breakdown and offer escalation to a human agent.
+
+
+4. The agent shall offer various payment methods (e.g., credit card, debit card, bank transfer, payment link).
+
+
+5. The agent shall confirm the selected payment method and log the customer’s choice.
+
+
+
+
+---
+
+User Story Title
+AI Agent Collects and Processes Payment
+
+User Story
+As an AI agent,
+I want to securely collect and process the customer's payment details,
+So that I can complete the policy renewal transaction that includes the updated coverage modifications.
+
+Acceptance Criteria
+
+1. If paying by card, the AI agent shall request the card number and expiry date securely.
+
+
+2. If using a payment link, the agent shall send the link via SMS and email.
+
+
+3. The agent shall validate the payment details and process the transaction.
+
+
+4. If the payment fails, the agent shall allow a defined number of retries before escalating the issue to a human agent.
+
+
+5. Upon successful payment, the agent shall confirm the transaction and log all payment details for auditing.
+
+
+
+
+---
+
+User Story Title
+AI Agent Confirms Successful Renewal and Sends Updated Policy Documents
+
+User Story
+As an AI agent,
+I want to confirm that the renewal transaction is complete and send the updated policy documents reflecting the new coverage,
+So that the customer receives complete and accurate documentation of their renewed policy.
+
+Acceptance Criteria
+
+1. The AI agent shall confirm that the payment was successful and that the policy has been renewed with the updated coverage.
+
+
+2. The agent shall generate updated policy documents that clearly indicate the modified coverage options and the new premium.
+
+
+3. The updated documents shall be sent to the customer via email and, if applicable, via postal mail.
+
+
+4. The entire renewal process, including coverage modifications and payment confirmation, shall be logged with timestamps.
+
+
+
+
+---
+
+User Story Title
+AI Agent Closes the Call
+
+User Story
+As an AI agent,
+I want to politely close the call after confirming the updated renewal details and coverage changes,
+So that the customer is fully informed, satisfied with the process, and provided with instructions for future support.
+
+Acceptance Criteria
+
+1. The AI agent shall thank the customer and confirm that their policy has been renewed with the updated coverage modifications.
+
+
+2. The agent shall provide clear instructions for contacting support if any further issues arise.
+
+
+3. The call closure and any customer remarks shall be logged.
+
+
+4. The system shall archive the complete call transcript for auditing and reference.
+
+
+
+
+---
+
+This complete specification uses the same pattern as before but incorporates enhanced identity verification through MFA and additional steps for handling coverage modifications. Each step is designed to ensure both security and clarity throughout the end-to-end process.
+
