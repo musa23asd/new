@@ -1,20 +1,3 @@
-User Story Title
-AI Agent Confirms Successful Renewal and Sends Updated Policy Documents
+https://www.grantthornton.co.uk/insights/esg-in-insurance-how-to-keep-up-with-esg-risks/
 
-User Story
-As an AI agent,
-I want to confirm the successful renewal and send the updated policy documents that include the new coverage changes,
-So that the customer receives complete and accurate documentation of their renewed policy.
-
-Acceptance Criteria
-
-1. The AI agent shall confirm that the payment was successful and that the renewal is complete with the updated coverage.
-
-
-2. The AI agent shall generate updated policy documents reflecting all coverage modifications.
-
-
-3. The documents shall be sent to the customer via email and, if applicable, via postal mail.
-
-
-4. The AI agent shall log the completion of the renewal process, including timestamps for all key steps.
+https://www.pwc.com/us/en/industries/financial-services/library/esg-insurance-industry.html
