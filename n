@@ -1,21 +1,16 @@
-Cloud and Hybrid Infrastructure:
-
-Swiss Re has adopted a multi-cloud, hybrid environment using platforms like Cloud Foundry and OpenStack. This enables scalability, flexibility, and seamless integration of private and public cloud solutions1.
-
-The company migrated over 400 Java applications to the Swisscom Virtual Private Application Cloud, leveraging microservices architecture for continuous delivery1.
-
-Agile and DevOps Practices:
-
-Through initiatives like "GoAgile," Swiss Re has embraced agile methodologies to improve IT delivery speed and collaboration. DevOps practices have been integrated to streamline application development and deployment2.
-
-Advanced Data Analytics:
-
-Swiss Re uses cutting-edge analytics tools to process large datasets for underwriting, claims management, and client insights. Confidential computing technologies like Decentriq enhance data security while maintaining performance3.
-
-AI and Automation:
-
-AI is a core component of Swiss Re's strategy, with applications in risk assessment, pricing, and operational efficiency. The company is advancing through stages of AI maturity to enhance decision-making capabilities8.
-
-Partnerships and Talent Development:
-
-Swiss Re collaborates with technology partners like TCS to leverage external expertise for IT transformation. This includes modernizing business intelligence systems and reducing development cycle times2.
+About Company
+Listed on Exchange
+Products and Services
+Business Model (like Low value - High volume, etc)
+Are there are any outsourcing partners, if yes what type of outsourcing (like BPS)
+M&A
+Licensed to write business in
+AI investment
+Plans for 2025-2026
+Partnerships
+2023 Net premiums written (in USD)
+Services offering external facing APIs
+Official Website Link
+Data Maturity
+Pricing Maturity
+Tech Stack
