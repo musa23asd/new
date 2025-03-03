@@ -1,47 +1,98 @@
-Here are some direct links from reputable sources you can use to verify the data on Swiss Re’s mergers and acquisitions:
-
-1. Acquisition of GE Insurance Solutions (2005–2006):
-
-Bloomberg reported on the deal, noting its size of approximately US $7.4 billion.
-Verify here (Bloomberg)
+Below is a detailed summary of Swiss Re’s outsourcing partnerships and the types of outsourcing they engage in, along with direct evidence links from reputable sources:
 
 
+---
 
-2. Stake in SulAmérica (November 2013):
+Outsourcing Partnerships & Types of Outsourcing
 
-Reuters covered Swiss Re’s purchase of a 14.9% stake in SulAmérica for about US $334 million.
-Verify here (Reuters)
+Swiss Re leverages various outsourcing partnerships to enhance its operational efficiency, cost-effectiveness, and digital transformation. Key areas include:
 
+1. Business Process Outsourcing (BPO):
 
+Partner: CSC (now DXC Technology)
 
-3. Acquisition of Guardian Financial Services (September 2015):
+Scope:
 
-Reuters and Financial Times reported on the transaction valued at approximately £1.6 billion.
-Verify here (Reuters)
+Provides end-to-end processing services to support areas such as underwriting, policy issuance, claims processing, and administration for Swiss Re’s direct life insurance business (Admin Re).
 
-
-
-4. Divestiture of ReAssure to Phoenix Group Holdings (December 2019):
-
-Reuters has detailed coverage of this deal, with figures around £3.2 billion or US $4.1 billion.
-Verify here (Reuters)
+CSC’s services include processing for workers’ compensation, insurance policy management, and claims administration.
 
 
+Duration:
 
-5. Acquisition of Fathom Global (December 2023):
+The outsourcing contract with CSC has been extended for a long-term period (initially extended for 10 years, with previous collaborations dating back to 1995).
 
-FinTech Global recently covered this acquisition, emphasizing its strategic role in enhancing flood risk analytics.
-Verify here (FinTech Global)
+
+Evidence:
+• Tech Monitor Article on CSC Contract Extension with Swiss Re 
+• Additional press releases and case studies from PR Newswire and other sources have highlighted CSC’s role in Swiss Re’s BPO operations. (See Birlasoft and Swiss Re Outsourcing Excellence Award )
 
 
 
-6. Acquisition of Champlain Re (February 2022):
+2. IT Outsourcing and Digital Transformation:
 
-Industry news outlets have reported on Swiss Re’s acquisition of Champlain Re to manage legacy exposures.
-Verify here (Reinsurance News)
+Partner: DXC Technology
+
+Scope:
+
+DXC’s reinsurance software and business process services (SICS) are used by Swiss Re to digitize unstructured B2B processes, automate claims processing, and streamline policy administration.
+
+These IT outsourcing services enhance Swiss Re’s core systems, improve data processing, and support cloud-based initiatives and software-as-a-service strategies.
+
+
+Evidence:
+• DXC Technology Customer Story on Swiss Re 
+
+
+
+3. Third Party Risk Management and Outsourcing Governance:
+
+Internal Process Outsourcing:
+
+Swiss Re has also established frameworks to manage and monitor third-party outsourcing relationships.
+
+Roles like the Third Party Risk Management Project Manager (as seen in their career postings) are responsible for overseeing third party risk, ensuring compliance, and managing outsourcing arrangements.
+
+
+Scope:
+
+This includes due diligence, performance monitoring, and continuous improvement of outsourced functions.
+
+
+Evidence:
+• Job postings and career pages at Swiss Re provide insights into the importance of outsourcing risk management within the company (see Third Party Risk Management Project Manager posting )
 
 
 
 
-You can use these links to cross-check the details on each transaction. These sources (Bloomberg, Reuters, FinTech Global, and specialized reinsurance news sites) are considered reliable and provide up-to-date, verified information.
+
+---
+
+How to Verify the Data
+
+You can verify the details provided above through the following reputable sources:
+
+1. Tech Monitor Article on CSC Outsourcing Contract Extension:
+Swiss Re Inks 10-Year BPO Contract Extension With CSC 
+
+
+2. DXC Technology Case Study:
+DXC Technology – Swiss Re Digitizes Unstructured B2B Processes 
+
+
+3. PR Newswire/Birlasoft Outsourcing Award Article:
+Birlasoft and Swiss Re Win 18th Annual Outsourcing Excellence Awards 
+
+
+4. Swiss Re Careers – Third Party Risk Management Role:
+Third Party Risk Management Project Manager (Hybrid) at Swiss Re 
+
+
+
+These links come from trusted industry publications, official press releases, and Swiss Re’s own career and corporate materials, ensuring that the information is reliable.
+
+
+---
+
+If you need any further details on these outsourcing partnerships or additional verification points, please let me know!
 
