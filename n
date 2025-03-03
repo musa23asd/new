@@ -1,23 +1,130 @@
-New Net Account	
-About Company	"- Founded in 2016
--  300+ employees, globally distributed with hubs in Atlanta, Chicago, New York City, San Francisco, and Tel Aviv
-- Provides insurance protection and cybersecurity solutions and services to close to 40,000 businesses in the US with revenue up to $5B
-- At-Bay Acquires Relay to Accelerate the Future of Specialty Insurance"
-Listed on Exchange	
-Products and Services	"Cyber, 
-Tech E&O(protects technology products or services), 
-Miscellaneous Professional Liability(MPL)"
-Business Model(like Low value - High volume, etc)	
-Are there are any outsourcing partners, if yes what type of outsourcing (like BPS)	
-M&A	- At-Bay Acquires Relay to Accelerate the Future of Specialty Insurance(which focuses on enabling the digital transformation of commercial insurance and reinsurance submissions. The integration offers brokers instant quotes, augmented communication, and seamless access to At-Bay’s comprehensive Cyber Liability coverage and active risk monitoring services)
-Licensed to write business in	"All 50 states (including Hawaii and Alaska), as well as Washington D.C.
-(All products may not be available in all states)"
-AI investment	
-Plans for 2025-2026	
-Partnerships	
-2023 Net premiums written (in USD)	
-Services offering external facing APIs	Yes - Generate bindable Cyber, Tech E&O, and MPL quotes in less than 2 minutes with At-Bay’s API.
-Official Website Link	https://www.at-bay.com/
-Data Maturity	
-Pricing Maturity	
-Tech Stack	
+Below is a structured summary of Swiss Re along with direct evidence links from reputable sources:
+
+
+---
+
+About Company
+
+Founded: 1863
+
+Headquarters: Zurich, Switzerland
+
+Global Presence: Operates through around 70 offices worldwide with approximately 14,400 employees
+
+Core Business: One of the world’s leading providers of reinsurance, insurance, and other forms of insurance-based risk transfer, with a mission to help make the world more resilient
+Evidence:
+• Swiss Re “About Us” page – 
+• Swiss Re Group homepage – 
+
+
+
+---
+
+Listed on Exchange
+
+Public Listing: Swiss Re is publicly traded on the SIX Swiss Exchange (ticker: SREN)
+Evidence:
+• Information available on Swiss Re’s investor pages (accessible via the official website – )
+
+
+
+---
+
+Products and Services
+
+Reinsurance Offerings:
+• Property & Casualty Reinsurance
+• Life & Health Reinsurance
+• Corporate Solutions
+• Reinsurance Solutions
+
+Additional Services: Provides risk insights, innovative risk transfer solutions, and works in partnership with insurers, governments, and corporates
+Evidence:
+• “Our Business” section on Swiss Re – 
+
+
+
+---
+
+Business Model
+
+Approach: Leverages deep technical expertise, intelligent data analysis, and strong capital strength to underwrite and transfer risk across multiple segments
+
+Collaboration: Works closely with insurance companies and other stakeholders worldwide to help clients manage complex risks—from natural catastrophes and climate change to cybercrime
+Evidence:
+• Company messaging and strategic overview on the “About Us” page – 
+
+
+
+---
+
+Outsourcing & Partnerships
+
+Partnerships: Swiss Re collaborates with various technology and data partners to enhance its digital and risk management capabilities
+
+Recent Innovation: In September 2024, Swiss Re announced the deployment of mea Platform’s GenAI solution across its insurance and reinsurance operations, enhancing the processing of complex documents and data
+Evidence:
+• FinTech Global article on Swiss Re’s deployment of GenAI – 
+
+
+
+---
+
+Mergers & Acquisitions (M&A)
+
+Strategic Moves: Over its long history, Swiss Re has engaged in strategic M&A and partnerships to expand its product suite and technological capabilities. Specific details can be found in its annual and investor reports available on its website.
+Evidence:
+• Swiss Re’s official investor and annual report sections (refer to the “Investors” menu on )
+
+
+
+---
+
+Licensing & Global Operations
+
+Licenses: Operates under regulatory approvals in multiple jurisdictions worldwide, allowing it to write business globally
+
+Digital & Risk Analytics: Uses advanced data analytics and technology tools to support its underwriting and risk management processes
+Evidence:
+• Details on global presence and operational approach on Swiss Re’s “About Us” page – 
+
+
+
+---
+
+AI Investment & Digital Transformation
+
+Technology Focus: Actively investing in digital transformation, including the use of artificial intelligence for data extraction and risk assessment
+
+GenAI Deployment: The recent rollout of mea Platform’s GenAI solution demonstrates Swiss Re’s commitment to innovation and efficiency in processing reinsurance data
+Evidence:
+• FinTech Global article on the GenAI solution deployment – 
+
+
+
+---
+
+Official Website
+
+https://www.swissre.com/
+Evidence:
+• Direct link to Swiss Re’s homepage – 
+
+
+
+---
+
+Data & Technology Maturity
+
+Tech Stack & Data Capabilities: Swiss Re is known for its robust data analytics, risk modeling, and digital platforms that support advanced underwriting and risk management
+
+Ongoing Innovation: The integration of AI and digital tools (e.g., GenAI) highlights its ongoing commitment to improving operational efficiency and risk insight
+Evidence:
+• Swiss Re’s emphasis on digital transformation and technology is reflected on their website and in industry news – ; 
+
+
+
+---
+
+This summary combines publicly available, verifiable data on Swiss Re with evidence links to their official materials and relevant industry news. If you need further details on any section, please let me know!
+
