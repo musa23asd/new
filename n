@@ -1,4 +1,83 @@
 
+
+
+
+US1	"AI Agent Handles New Vehicle Addition During Renewal
+"	"As an AI agent,
+I want to ask the customer if they wish to add a new driver to their policy during renewal,
+So that I know whether to initiate the new driver addition flow.
+"	"1. The AI agent must ask the customer whether the customer wants to add a new driver to their policy
+
+The AI agent shall retrieve the current list of covered drivers from the policy record.
+The AI agent should ask for:
+-driver’s full name?
+-date of birth (DOB)
+-driver’s license number (and expiration date, if available)
+-relationship to the policyholder
+-last 4 digits of their SSN (if applicable)
+-drinking and smoking habits
+-details on their driving history (e.g., previous accidents or traffic violations)
+"
+
+US2
+		"As an AI agent,
+I want to validate and record the new driver’s details from the customer after confirming the addition,
+So that the policy is updated with accurate new driver information."	"1.The system shall validate the new driver’s details against internal records and all possible sources.
+2. The agent shall record the provided details.
+3.If any detail is missing or invalid, the AI agent shall display an appropriate error message and asks the customer to re-enter the correct information (up to two retries).
+"
+
+US3
+		"As an AI agent,
+After validation is completed I want to pass them to the quote engine,
+So that an updated renewal quote is generated reflecting the added risk."	"1. Upon successful validation, the new driver’s information shall be logged.
+2. The updated driver details shall be sent to the quote engine, which shall generate a new renewal quote that reflects the additional risk 
+3. The system preocesses the driver details so that the premium amount can be recalculated
+
+"
+	
+US4
+	"As an AI agent,
+I want to display the updated premium to the customer and confirm their acceptance of the new quote,
+So that the renewal process can proceed with the updated policy"	"1. The AI agent shall retrieve the updated premium from the quote engine after the new driver’s details have been processed.
+2. The AI agent shall present the updated renewal quote (including the new premium amount) to the customer.
+3. The agent shall confirm, the new premium amount with the customer.
+4. If the customer disagrees the updated premium, the agent shall provide a breakdown of the recalculation and offer the option to re-enter details or transfer the call to a human agent.
+5. Upon customer confirmation, the updated premium shall be logged, and the policy record shall be updated accordingly.
+
+"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Below is a fully detailed user story for adding a new driver during a policy renewal with coverage modifications. This story includes integration with the quote engine (to generate an updated premium), robust data collection, validation, logging, and confirmation steps—mirroring the style of your “without change” example.
 
 
