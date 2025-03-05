@@ -1,3 +1,107 @@
+
+Below is a fully detailed user story for adding a new driver during a policy renewal with coverage modifications. This story includes integration with the quote engine (to generate an updated premium), robust data collection, validation, logging, and confirmation steps—mirroring the style of your “without change” example.
+
+
+---
+
+User Story Title
+AI Agent Handles New Driver Addition During Renewal with Coverage Update
+
+User Story
+As an AI agent,
+I want to ask the customer if they wish to add a new driver to their policy during renewal, collect all the required new driver details, send these details to the quote engine to generate an updated renewal quote, and then confirm the new premium with the customer,
+So that the policy is updated accurately with the new driver’s information and the premium is recalculated accordingly.
+
+Acceptance Criteria
+
+1. Preliminary Verification:
+
+The AI agent shall retrieve the current list of covered drivers from the policy record.
+
+The agent shall ask: "Do you want to add a new driver to your policy?"
+
+If the customer declines, the agent shall confirm that no driver addition is needed and proceed with other modifications (if any).
+
+
+
+2. Data Collection for New Driver:
+
+If the customer answers “Yes,” the agent shall prompt for the following new driver details:
+
+Full Name
+
+Date of Birth (DOB)
+
+Driver’s License Number (with expiration date, if available)
+
+Relationship to the Policyholder
+
+Last 4 digits of Social Security Number (if applicable)
+
+Drinking and Smoking Habits
+
+Driving History Details (including any previous accidents or traffic violations)
+
+
+
+
+3. Validation & Re-Entry:
+
+The system shall validate the new driver’s details against internal records and, if available, external verification sources.
+
+If any information fails validation, the AI agent shall display an appropriate error message and prompt the customer to re-enter the correct information (up to two retries).
+
+
+
+4. Integration with Quote Engine:
+
+Once validated, the AI agent shall send the new driver’s details along with the current policy data to the quote engine.
+
+The quote engine shall generate an updated renewal quote that reflects the added driver and the associated premium adjustments.
+
+
+
+5. Customer Confirmation:
+
+The AI agent shall display the updated premium and quote details to the customer.
+
+The agent shall ask, “Do you confirm the new premium amount based on adding this driver?”
+
+If the customer disputes the quote, the agent shall provide a breakdown of how the premium was recalculated and offer the option to re-enter driver details or transfer the call to a human agent.
+
+
+
+6. Logging and Policy Update:
+
+Upon confirmation by the customer, the new driver information shall be logged, and the policy record shall be updated with the new driver details.
+
+The system shall recalculate the final premium accordingly and update the renewal record.
+
+All interactions, including timestamps for data collection, validation, quote generation, and customer confirmation, shall be logged for auditing purposes.
+
+
+
+7. Proceed with Renewal:
+
+With the updated premium confirmed, the AI agent shall proceed with the subsequent steps of the renewal process (e.g., payment collection and final confirmation).
+
+
+
+
+
+---
+
+This detailed user story covers the entire flow for adding a new driver during a policy renewal with a coverage update. It clearly specifies the sub–questions the AI agent must ask, integrates with the quote engine to generate an updated premium, includes robust validation and logging, and confirms customer approval before finalizing the policy update. This approach minimizes repetition by modularizing the data collection and validation steps, ensuring a smooth and precise conversation flow.
+
+
+
+
+
+
+
+
+
+
 Below is an implementation for the “New Driver Addition” flow during a policy renewal with coverage changes. In this approach, the process is broken into distinct user stories. For each story, I’ve separated the detailed sub‐questions (to be asked if the customer opts to add a new driver) from the acceptance criteria. The acceptance criteria now simply state that the AI agent must ask whether the customer wants to add a new driver and then, if confirmed, collect and process the necessary details.
 
 
