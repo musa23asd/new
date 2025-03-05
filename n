@@ -23,7 +23,7 @@ AI agent should ask for confimation to route the call to human agent.
 
 Similarly
 Addition of Driver 
-addition of Vehicle	"A) As an AI agent,
+	"A) As an AI agent,
 I want to ask the customer relevant to addition of a driver so that the policy gets renewed accurately with the driver details
 So that the policy is updated with the new driver’s details and the premium is recalculated accordingly.
 "	"1. The AI agent shall retrieve the current list of covered drivers from the policy record.
