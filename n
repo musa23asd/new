@@ -1,90 +1,142 @@
-User Story Title
-US1	System Notifies Customer About Upcoming Renewal 	"As a system,
-I want to automatically send renewal reminders to customers via email/SMS,
-So that they are aware of their upcoming policy renewal and can take timely action.
+Below is an implementation for the “New Driver Addition” flow during a policy renewal with coverage changes. In this approach, the process is broken into distinct user stories. For each story, I’ve separated the detailed sub‐questions (to be asked if the customer opts to add a new driver) from the acceptance criteria. The acceptance criteria now simply state that the AI agent must ask whether the customer wants to add a new driver and then, if confirmed, collect and process the necessary details.
 
-Note: This is not a part of the POC. To show the continuity of the Use Case this User Story is created."	"1. The system should check the policy database for policies expiring within the next 45 days.
-2. The system should trigger an automated email/SMS reminding the customer of renewal includes the renewal quotes
-3. The notification should include below details:
--Policy number
--Expiry date
--Instructions to renew via the contact center or online
-4. If the customer has already renewed, the system should suppress the notification.
 
-Pre-requisites: 
-1. This notification is sent based on renewal conditions and prompts the customer to contact the CC for any clarifications. 
-2. Renewal quotes are generated prior 45 days from the expiration date. These are only renewal quotes without change in coverage"
-US2.1	Option #1: AI Agent Initiates Outbound Call for Renewal Verification	"As an AI agent,
-I want to call the customer based on 
- - the policy renewal date or 
- - post 15 days of renewal reminder 
-   And verify Customer identity
-So that if the caller is not the valid customer I can instruct them to transfer the call, and if they are the valid customer, I can proceed with processing their renewal."	"1. The AI agent must greet the customer to confirm the name from the policy record with the caller
-2. If the caller is NOT the customer:
- - The AI agent must request to transfer the call to the customer
- - The incident shall be logged and escalated for follow-up by a human agent.
-3. If the caller is the valid customer:
- - The AI agent must confirm the customer identity with DOB. 
- - Once confirmed, the AI agent must confirm key details including the policy number and expiry date.
-4. AI Agent proceeds with the further renewal process"
-US2.2	Option #2: Customer calls AI Agent after receiving the Renewal Notice	"As an AI agent, given the customer calls for the renewal then
-I want to ask for the reason of the call and identity proof
-So that I validate the customer's identity and guide them as per the reason of the call"	"1. The AI agent must inform the customer that the call may be recorded.
-2. The AI agent must ask the customer to confirm the purpose of the call.
-3. The AI agent must prompt the customer to provide the DOB if the call is for the renewal
-4. The AI must validate the DOB against the system details
-5. If the provided data is incorrect or does not match system records, the AI agent must prompt the customer to re-enter the information with valid error message
-5. If the details are verified, AI agent should proceed; otherwise, transfer to a human agent."
-US3	AI Agent Provides Policy Renewal Details	"As an AI agent, 
-I want to inform the customer about their policy expiration and want to understand whether any change in Coverage 
-So that the Customer can renew the policy with updated Coverage (if applicable)."	"1. AI agent should retrieve the details and communicate the policy expiry date.
-2. AI agent should ask for the updates in the policy:
--Coverage type
--Vehicle details
--Named drivers
-3. If changes are requested, (refer to sheet ""with change in coverage"" for user stories
-4. If no changes are needed, AI should proceed with the renewal process."
-US4	AI Agent Confirms Renewal Amount and Payment Option	"As an AI agent,
-I want to retrieve the updated renewal premium based on the coverage changes (if applicable) and offer customer multiple payment options
-So that the customer can confirm the premium and complete the renewal transaction conveniently."	"1. The AI agent shall fetch the updated premium amount from the system reflecting the coverage changes.
-2. The agent shall confirm the renewal cost with the customer and explain any adjustments due to coverage modifications.
-3. AI agent confirms to proceeed with the payment from the customer
-3. AI should offer multiple payment methods:
--Credit card
--Debit card
--Bank transfer
--Payment link
-5. AI should confirm the selected payment method and proceed accordingly.
-6. If the customer has additional queries with the pricing, the AI agent must transfer the call to the human agent"
-US5	AI Agent Collects and Processes Payment	"As an AI agent,
-I want to securely collect and process the customer's payment details
-So that I can complete the policy renewal transaction that includes the updated coverage modifications (where applicable)."	"1. The AI agent confirms one of the payment method: 
-- Credit card
-- Debit card
-- Account transer
-- Payment link
-2. When the customer opts to pay via card, the AI must request the following details:
-- Card number
-- Expiry date
-3. The AI should validate the provided card details before processing the payment.
-4. When the customer chooses to pay via a payment link, the AI must send the payment link to the customer
-5. The AI must validate all payment details (card or payment link) before initiating the transaction.
-6. If the payment fails:
-The AI should allow the user to retry the payment.
-7. Upon successful payment:
-The AI must confirm the transaction with the user."
-US6	AI Agent Confirms Successful Renewal and Sends Policy Documents	"As an AI agent,
-I want to confirm the successful renewal and send the updated policy documents that include the new coverage changes,
-So that the customer receives complete and accurate documentation of their renewed policy."	"1. The AI agent must confirm that the payment was successful and that the renewal is complete with the existing coverage and confirms the policy number
-2. The AI agent notifies the PAS system with the details
-3. System generates the documents and sends to the customer via email/sms within next 24hrs and AI agent communicates that the physical letter will reach in 7-10 business days. 
-4. The AI agent should log the completion of the renewal process, including timestamps for all key steps."
-US7	AI Agent Closes the Call 	"As an AI agent,
-I want to close the call after confirming successful renewal,
-So that the Customer is fully informed, satisfied with the renewal process, and has clear instructions for future support."	"1. The AI agent confirms the policy renewal details
-2. The AI agent must provide instructions for contacting support if customer wants 
--  Any futher queries/additional information 
-- In case of any queries AI agent asks the customer to contact support .
-3.The AI agent must for the feedback
-4. The AI agent should log the call closure and any additional customer remarks.
-5. The system should archive the call transcript for audit and future reference."
+---
+
+User Story 1: AI Agent Asks for New Driver Addition Confirmation
+
+User Story
+As an AI agent,
+I want to ask the customer if they wish to add a new driver to their policy during renewal,
+So that I know whether to initiate the new driver addition flow.
+
+Acceptance Criteria
+
+1. The AI agent must ask the customer: “Would you like to add a new driver to your policy?”
+
+
+2. The customer’s response (Yes/No) shall be recorded.
+
+
+3. If the response is “No,” the agent shall confirm that no new driver will be added and proceed to the next renewal step.
+
+
+
+Detailed Questions (to be used if “Yes” is selected):
+
+What is the new driver’s full name?
+
+What is their date of birth (DOB)?
+
+What is their driver’s license number (and expiration date, if available)?
+
+What is their relationship to the policyholder?
+
+What are the last 4 digits of their SSN (if applicable)?
+
+What are their drinking and smoking habits?
+
+Could you provide details on their driving history (e.g., previous accidents or traffic violations)?
+
+
+
+---
+
+User Story 2: AI Agent Collects New Driver Details
+
+User Story
+As an AI agent,
+I want to collect the new driver’s details from the customer after confirming the addition,
+So that the policy is updated with accurate new driver information.
+
+Acceptance Criteria
+
+1. The AI agent shall prompt the customer to provide the new driver’s details (using the detailed questions as a guideline).
+
+
+2. The agent shall record the provided details.
+
+
+3. If any detail is missing or invalid, the agent shall prompt the customer to re-enter the information with an appropriate error message.
+
+
+
+Note: The specific questions to be asked are outlined in the “Detailed Questions” section above, but they do not appear verbatim in the acceptance criteria.
+
+
+---
+
+User Story 3: AI Agent Validates New Driver Details and Updates Renewal Quote
+
+User Story
+As an AI agent,
+I want to validate the new driver’s details and pass them to the quote engine,
+So that an updated renewal quote is generated reflecting the added risk.
+
+Acceptance Criteria
+
+1. The system shall validate the new driver’s details against available internal and external verification sources (e.g., driving history, accident records).
+
+
+2. If validation fails, the AI agent shall prompt for corrected details (allowing up to two re-entries).
+
+
+3. Upon successful validation, the new driver’s information shall be logged.
+
+
+4. The updated driver details shall be sent to the quote engine, which shall generate a new renewal quote that reflects the additional risk and recalculated premium.
+
+
+
+
+---
+
+User Story 4: AI Agent Confirms Updated Renewal Quote for New Driver Addition
+
+User Story
+As an AI agent,
+I want to display the updated premium to the customer and confirm their acceptance of the new quote,
+So that the renewal process can proceed with the updated policy.
+
+Acceptance Criteria
+
+1. The AI agent shall retrieve the updated premium from the quote engine after the new driver’s details have been processed.
+
+
+2. The AI agent shall present the updated renewal quote (including the new premium amount) to the customer.
+
+
+3. The agent shall ask, “Do you confirm the new premium amount based on adding this driver?”
+
+
+4. If the customer disputes the updated premium, the agent shall provide a breakdown of the recalculation and offer the option to re-enter details or transfer the call to a human agent.
+
+
+5. Upon customer confirmation, the updated premium shall be logged, and the policy record shall be updated accordingly.
+
+
+
+
+---
+
+Modular Flow Summary
+
+1. Preliminary Confirmation:
+The AI agent first asks if the customer wishes to add a new driver.
+
+
+2. Data Collection:
+If confirmed, the agent collects the new driver’s details using the “Detailed Questions” (listed separately).
+
+
+3. Validation & Quote Update:
+The system validates these details and updates the renewal quote via the quote engine.
+
+
+4. Confirmation:
+The AI agent then confirms the updated premium with the customer before proceeding with the renewal process.
+
+
+
+This approach creates a clear, modular, and non-repetitive storyline for the new driver addition flow, ensuring that each step (from initial confirmation to final quote acceptance) is handled by a separate user story with its own clear acceptance criteria.
+
