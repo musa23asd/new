@@ -1,38 +1,40 @@
-Secondary Targets							
-Kemper PC Companies	
+Secondary Targets
+QBE Americas Group
 
 2023 Net premiums written (US $ 000)
-3,826,269	
+3,758,732
 
-CC Size	Main LOB supports
-600	
+CC Size
+800
+
+Main LOB supports
+"QBE is the North American arm of QBE Insurance Group, an Australian-based insurer with global operations. The focus of QBE Americas includes: 
+o	Commercial Lines (e.g., property, casualty, workers' compensation, and liability)
+o	Specialty Lines (e.g., marine, aviation, and agriculture)
+o	Personal Lines (e.g., homeowners and auto insurance)"
 
 AI Investment
-"Kemper is a large provider of Property & Casualty insurance, with a focus on:
-•	Auto Insurance
-•	Homeowners Insurance
-•	Life Insurance (through its subsidiary).
-•	Kemper serves both personal and commercial insurance markets."	"•	Kemper has invested in AI and automation to enhance the customer experience and streamline claims processing.
-•	The company has been leveraging AI for claims triage, fraud detection, and customer service chatbots.
-•	They also invest in cloud-based technologies and machine learning to optimize pricing models and improve risk management."	
+"•	QBE has shown interest in AI and machine learning for claims automation, risk assessment, and customer experience improvement.
+•	They have worked on developing AI-driven platforms for faster claims processing and improving the underwriting process by analyzing large datasets.
+•	In 2020, QBE partnered with Tractable, an AI startup focused on damage appraisals and claims handling, to incorporate AI into their auto insurance claims process."
 
 AI Investments in Contact Centers
-"•	AI-Driven Claims and Customer Service Automation: Kemper has implemented AI solutions to speed up their claims processing by automating the initial stages of claims triage and approval.
-•	AI-Powered Chatbots: They’ve deployed AI-driven virtual assistants to interact with customers, improving customer satisfaction by providing real-time, 24/7 support.
-•	Predictive Analytics: Kemper is likely using predictive analytics to assess customer behaviors and proactively offer insurance solutions."	
+"•	AI for Claims Handling: QBE uses AI to automate and optimize their claims processes, including using image recognition and machine learning to process claims more quickly.
+•	Customer Engagement: AI is used to improve customer engagement through personalized customer experiences. Chatbots handle routine inquiries, allowing human agents to focus on more complex requests.
+•	Fraud Detection: QBE deploys AI to monitor claims for fraudulent patterns, using algorithms that analyze historical data for suspicious activity."
 
 Digital Transformation in Contact Centers
-"•	AI-powered automation is central to Kemper's digital transformation. They aim to enhance their contact center operations with cloud-based systems and AI tools for fraud detection, customer service, and claims.
-•	Future efforts will likely focus on making claims processing more efficient, improving self-service options for customers, and automating routine tasks to allow agents to focus on more complex issues."	
+"•	QBE is focused on expanding its use of AI-driven technologies to streamline claims processing, improve customer support automation, and enhance fraud detection in contact center operations.
+•	The future emphasis is likely on expanding AI in the form of digital assistants for self-service and machine learning algorithms to improve underwriting accuracy."
 
-Vendors Supporting Contact Centers	
-"•	Kemper has been known to partner with Verint, Genesys, and AWS for their contact center technology.
-•	The integration of cloud services and AI-driven analytics is a major part of their contact center strategy."	
+Vendors Supporting Contact Centers
+"•	QBE has partnered with various vendors to improve its digital offerings, including cloud-based contact center solutions and AI chatbots for customer service.
+•	Vendors like Amazon Web Services (AWS) for cloud services and Tractable for AI-driven claims management have been involved in their AI and digital transformation strategy."
 
 Plans for 2025-2026
-•	Kemper is likely to expand its focus on digital insurance solutions, with further investments in AI and machine learning to automate claims and improve customer engagement.
-•	Personalized insurance pricing, claims automation, and enhancing their digital interface for consumers will likely be core to their strategy
+"•	QBE is expected to continue investing in digital transformation, AI, and cloud-based solutions.
+•	Focus on data-driven decision-making in underwriting and claims, as well as exploring more efficient ways to serve customers through AI-powered digital assistants and automated claims processing."
 
 Reference details
-"•	Kemper Annual Reports: Kemper Corporation Investor Relations [Link: https://www.kemper.com/]
-•	Press releases and quarterly earnings calls provide insights into their future investments."
+"•	QBE Insurance Annual Reports: QBE Americas Investor Relations [Link: https://www.qbe.com/us]
+•	Press releases: QBE Newsroom [Link: https://www.qbe.com/us/news]"
