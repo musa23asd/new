@@ -1,35 +1,31 @@
 "2021-2022
-Implementation of One Inc’s PremiumPay® Platform:
-To modernize its digital payment infrastructure. This initiative aimed to
-Improve policyholder experience.
-Streamline premium collection processes.
-Source: AmTrust Announcement on One Inc Partnership
-Focus on Digital Solutions:
-AmTrust emphasized investments in technology to modernize its customer engagement platforms. This included the development of mobile applications that enable policyholders to report and follow up on claims quickly and efficiently.
-Source: AmTrust Corporate Brochure 2024
+AI for Underwriting and Risk Assessment:
+ACG began actively investing in AI to enhance its underwriting processes and risk assessment capabilities. By leveraging machine learning algorithms, the company improved accuracy in pricing models and streamlined decision-making.
+Source: Accenture Report on AI in Insurance
+Integration of Predictive Analytics:
+Predictive analytics tools were implemented to assess customer data and forecast risks, enabling proactive adjustments to underwriting strategies.
+Source: Bankrate Insights on AI in Insurance
+ 
 2022-2023
-Omnichannel Customer Engagement:
-AmTrust enhanced its contact center operations by integrating multiple communication channels (phone, email, chat) into a unified platform. This allowed for a seamless customer experience across various touchpoints.
-Source: AmTrust Business Sustainability Report 2024
-Data Analytics for Customer Insights:
-The company invested in advanced analytics tools to gain insights into customer behavior and preferences. This data-driven approach enabled more personalized service offerings and proactive engagement strategies.
-Source: AmTrust Corporate Brochure 2024
+Partnership with Salesforce for AI Cloud:
+ACG partnered with Salesforce to adopt its AI Cloud solution, integrating Einstein AI for personalized recommendations. This initiative focused on improving underwriting efficiency by bundling insurance policies and reducing premiums based on predictive insights.
+Source: Salesforce Newsroom – ACG Partnership
+Machine Learning for Fraud Detection:
+ACG utilized machine learning algorithms to detect fraudulent activity in claims processing. These tools analyzed historical data to identify suspicious patterns, reducing financial losses.
+Source: Accenture Report on Fraud Detection
  
 2023-2024
-AI Integration for Enhanced Customer Experience:
-AmTrust continued to integrate AI technologies into its contact centers to automate routine tasks, improve response times, and enhance overall service quality.
-Source: AmTrust Business Sustainability Report 2024
-Mobile Application Development:
-The company focused on developing mobile applications that allow policyholders to manage their policies, report claims, and communicate with customer service representatives efficiently.
-Source: AmTrust Corporate Brochure 2024
+Generative AI Integration:
+ACG expanded its use of generative AI technologies to enhance content management and internal support services. This included automating back-office tasks such as coding tests and administrative workflows.
+Source: CIO Dive – Generative AI Push
+AI-Powered Insights for Claims Management:
+Leveraged AI-driven insights to provide next-best-action recommendations for claims management, improving operational efficiency and decision-making processes.
+Source: Salesforce Newsroom – ACG Partnership
  
 2024-2025
-Enhanced Digital Payment Solutions:
-Continued investment in digital payment solutions through platforms like One Inc’s PremiumPay®, aiming for a frictionless payment experience for policyholders.
-Source: AmTrust Announcement on Digital Payment Solutions
- 
-Cloud-Based Infrastructure Modernization:
-AmTrust plans to further modernize its contact center infrastructure by migrating to cloud-based solutions, ensuring scalability and flexibility in operations.
-Source: AmTrust Vendor Information
- 
-"
+Expansion of Machine Learning Capabilities:
+ACG plans to scale its machine learning capabilities across underwriting workflows. This involves automating data enrichment, triage processes, and risk scoring to reduce manual input and improve efficiency.
+Source: Accenture Report on Underwriting Automation
+Investment in Generative AI for Development:
+The company aims to use generative AI tools to accelerate software development lifecycles, enabling faster innovation delivery to members.
+Source: CIO Dive – Generative AI Push"
