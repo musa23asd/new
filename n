@@ -1,28 +1,28 @@
 Secondary Targets
-AmTrust Group
-
-2023 Net premiums written (US $ 000)
-2746211
-
-CC Size
-153
+Auto Club Group
 
 Main LOB supports
-"•Commercial Property & Casualty: AmTrust is a major player in the commercial P&C market and a top 3 Workers' Compensation provider in the U.S.
+"Commercial Property & Casualty: ACG is a major player in the commercial P&C market and a top 3 Workers' Compensation provider in the U.S.
  
-•Warranty & Specialty Risk: The company offers warranty programs and risk management expertise to small businesses, professional and financial services firms, retailers, and manufacturers worldwide."
+Warranty & Specialty Risk: The company offers warranty programs and risk management expertise to small businesses, professional and financial services firms, retailers, and manufacturers worldwide."
 
 AI Investment
-• Excess and Surplus (E&S) Insurance Clearance Process: AmTrust partnered with Tata Consultancy Services (TCS) to implement AI and automation technologies  automates data extraction from broker submissions, reducing the initial underwriting response time from several days to same or next day. Over 80% of submissions are now processed within four hours, strengthening relationships with broker partners.
+ACG has been actively investing in artificial intelligence to enhance its underwriting processes and risk assessment capabilities. The company has partnered with technology providers to integrate AI into its operations, aiming to improve efficiency and accuracy in underwriting and claims processing.
+
 
 AI Investments in Contact Centers
-•AmTrust Financial has implemented AI-based chatbots to enhance its customer service. They have partnered with Reply.ai, whose chatbot solution supports customer service representatives and automates client interactions, improving service times and communication.                                          
+• Auto Club Group has implemented AI-powered virtual agents to enhance its customer service operations. They have utilized SmartAction’s conversational AI solution, which provides 24/7 emergency roadside assistance to members. These AI-powered virtual agents offer self-service options, reducing wait times and providing immediate assistance.                                              • Partnered with Salesforce and integrated Service GPT-powered chatbots. These chatbots provide real-time answers to customers for tasks like membership renewal or adding a family member to a plan.
 
 
 Digital Transformation in Contact Centers
-• Selected One Inc’s PremiumPay® platform to modernize its digital payment infrastructure, aiming to improve policyholder experience and premium collection processes.                                     • AmTrust is investing in technology to modernize its customer engagement platforms. The company emphasizes digital solutions to enhance the policyholder experience, including the development of mobile applications that enable policyholders to report and follow up on claims quickly and efficiently.
+• Digital Identity Management: ACG has implemented OpenText's Identity and Access Management solutions to provide a secure and unified digital identity for its members. This system reduces complexity, increases security, and streamlines the digital experience, enabling members to access services seamlessly across various platforms.
 
 
 Vendors Supporting Contact Centers
-Avaya, Cisco, Reply.ai,TCS
+Genesys, AWS Connect,Salesforce
+
+
+Plans for 2025-2026
+"• Investment in AI and Technology:
+AI-Driven Insights: By 2025, ACG plans to leverage AI to provide next best action recommendations for underwriting and claims management, enhancing decision-making processes and operational efficiency."
 
