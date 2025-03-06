@@ -1,28 +1,33 @@
 Secondary Targets
-Auto Club Group
+COUNTRY Financial PC Group
 
 Main LOB supports
-"Commercial Property & Casualty: ACG is a major player in the commercial P&C market and a top 3 Workers' Compensation provider in the U.S.
+"Auto Insurance: Coverage for personal vehicles.
  
-Warranty & Specialty Risk: The company offers warranty programs and risk management expertise to small businesses, professional and financial services firms, retailers, and manufacturers worldwide."
+Home Insurance: Protection for homeowners.
+ 
+Farm Insurance: Specialized policies for farming operations.
+ 
+Business Insurance: Coverage tailored for various businesses.
+ 
+Life Insurance: Policies to protect individuals and families.
+ 
+Retirement Planning and Investment Services: Assistance with financial planning for retirement and other investment needs."
+
 
 AI Investment
-ACG has been actively investing in artificial intelligence to enhance its underwriting processes and risk assessment capabilities. The company has partnered with technology providers to integrate AI into its operations, aiming to improve efficiency and accuracy in underwriting and claims processing.
-
+"COUNTRY Financial has leveraged AI and cloud computing as part of its Digital Transformation efforts. Their DigitaLab initiative focuses on emerging technologies like AI and cloud computing, enabling the development of new prototypes and their implementation in production.
+(Source: COUNTRYFINANCIAL.COM)
+"
 
 AI Investments in Contact Centers
-• Auto Club Group has implemented AI-powered virtual agents to enhance its customer service operations. They have utilized SmartAction’s conversational AI solution, which provides 24/7 emergency roadside assistance to members. These AI-powered virtual agents offer self-service options, reducing wait times and providing immediate assistance.                                              • Partnered with Salesforce and integrated Service GPT-powered chatbots. These chatbots provide real-time answers to customers for tasks like membership renewal or adding a family member to a plan.
+• Partnership with ZestyAI: In July 2024, COUNTRY Financial partnered with ZestyAI to integrate advanced AI solutions into its underwriting processes. This collaboration aims to streamline operations and provide more accurate risk assessments, enhancing the overall efficiency of the contact center.
 
 
 Digital Transformation in Contact Centers
-• Digital Identity Management: ACG has implemented OpenText's Identity and Access Management solutions to provide a secure and unified digital identity for its members. This system reduces complexity, increases security, and streamlines the digital experience, enabling members to access services seamlessly across various platforms.
-
+• Have collaborated with Infosys to develop an automated, DevOps-driven digital transformation platform. This platform includes self-service capabilities that execute automated checks for critical business applications.
 
 Vendors Supporting Contact Centers
-Genesys, AWS Connect,Salesforce
+Nice, Verint,ZestyAI
 
-
-Plans for 2025-2026
-"• Investment in AI and Technology:
-AI-Driven Insights: By 2025, ACG plans to leverage AI to provide next best action recommendations for underwriting and claims management, enhancing decision-making processes and operational efficiency."
 
