@@ -1,35 +1,35 @@
 "2021-2022
-Measured Approach to Automation:
-QBE adopted a strategic roadmap for implementing digital technologies like Robotic Process Automation (RPA) and Robotic Desktop Automation (RDA).
-Source: QBE’s Digital Transformation Journey
-Focus on Agile Methodology:
-Identify processes where automation could deliver immediate returns
-Source: QBE’s Measured Approach to Digital Transformation
+AI-Based Underwriting Models:
+AmTrust began leveraging proprietary AI-driven underwriting models to improve risk selection and pricing accuracy. These models enabled faster decision-making by analyzing vast datasets and identifying patterns in complex risks.
+Source: AmTrust Corporate Brochure 2024
+Data Science Integration:
+The company invested in data science capabilities to enhance its insurance product offerings and streamline operations. This included using AI for predictive risk modeling to improve underwriting efficiency.
+Source: AmTrust Corporate Brochure 2024
  
 2022-2023
-Migration to Genesys Cloud™ Platform:
- QBE transitioned its global contact centers from Genesys PureConnect™ on-premises to the Genesys Cloud™ platform, improved customer experience 
-Source: Genesys Customer Story – QBE
-Omnichannel Capabilities:
-The Genesys Cloud platform allowed QBE to integrate multiple communication channels (phone, email, chat) into a seamless system.
-Source: Genesys Customer Story – QBE
-Customer Data Centralization:
-Implemented centralized data systems in contact centers to provide agents with real-time access to customer histories, enabling personalized interactions.
-Source: Qualtrics Blog on Contact Center Transformation
+Excess and Surplus (E&S) Insurance Clearance Process (Your Data):
+AmTrust partnered with Tata Consultancy Services (TCS) to implement AI and automation technologies.
+These technologies automate data extraction from broker submissions, reducing the initial underwriting response time from several days to same or next day.
+Over 80% of submissions are now processed within four hours, strengthening relationships with broker partners.
+Source: TCS Case Study on AmTrust
+ 
+Low-Code AI Automation Platform: 
+TCS implemented a low-code AI platform that automated the classification, extraction, and validation of data from unstructured email attachments. This streamlined the clearance process and allowed auto-routing for cases needing manual intervention.
+Source: TCS Case Study on AmTrust
  
 2023-2024
-Enhanced Employee Empowerment:
-Introduced training programs for customer service agents to leverage real-time analytics and AI tools in the digitally transformed contact centers(NLU).
-Source: Qualtrics Blog on Employee Empowerment
-Real-Time Analytics for Customer Insights:
-Integrated real-time analytics into contact centers, enabling agents to make data-driven decisions and improve first-call resolution rates.
-Source: Qualtrics Blog on Real-Time Analytics
+AI-Powered Claims Processing:
+AmTrust expanded its use of AI to improve claims processing efficiency. By integrating machine learning algorithms, the company reduced claims cycle times and improved accuracy in fraud detection.
+ Source: AmTrust Business Sustainability Report 2024
+Predictive Analytics for Risk Management:
+The company utilized predictive analytics to identify emerging risks proactively, enabling better decision-making for underwriting and policy renewals.
+Source: AmTrust Corporate Brochure 2024
  
 2024-2025
-Expansion of Digital Assistants:
-Continued investment in AI-driven digital assistants to provide customers with self-service options Source: QBE Strategic Priorities
-Integration of Machine Learning for Feedback Analysis:
-Machine learning algorithms were implemented to analyze customer feedback from various channels, enabling continuous improvement of CX strategies.
-Source: Carrier Management on Digital Transformation
- 
+AI Expansion Across Business Units:
+AmTrust plans to expand its AI capabilities across all business units, focusing on enhancing operational efficiency and customer experience through automation and advanced analytics.
+Source: AmTrust Newsroom
+Generative AI for Policy Customization:
+The company is exploring generative AI technologies to automate policy customization processes, enabling faster delivery of tailored insurance solutions for small businesses.
+Source: AmTrust Business Sustainability Report 2024
 "
