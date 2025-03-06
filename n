@@ -1,29 +1,24 @@
-AI Investments in Contact Centers
-"2021-2022
-Initial AI Implementation:
-Deploying AI-powered chatbots to handle FAQs and streamline customer interactions.
-Introduced predictive analytics to analyze historical customer data, enabling proactive service and personalized solutions.
-
-2022-2023
-Advanced Automation in Contact Centers:
- AI-driven claims automation, allowing the initial stages of claims triage and approval to be handled without human intervention.
-Fraud Detection Integration:
-To identify suspicious patterns in claims, enhancing fraud detection within customer interactions.
-Cloud Migration:
-Partnered with AWS to migrate contact center operations to the cloud
+2021-2022
+Partnership with Tractable: QBE Americas partnered with Tractable to deploy AI for faster auto insurance claims processing using image recognition and machine learning.
+Source: QBE-Tractable Partnership Announcement
+AI in Risk Assessment: QBE used AI to analyze large datasets for underwriting and risk assessment, enhancing pricing accuracy and decision-making in commercial and specialty lines.
+Source: QBE Annual Report FY21
  
+2022-2023
+Cyber Underwriting AI Assistant Launch: QBE North America launched the Cyber Underwriting AI Assistant, reducing submission review times by 65%, enhancing risk selection, and improving conversion ratios.
+Source: QBE Cyber AI Assistant Overview
+Fraud Detection Enhancements: Expanded use of machine learning algorithms to detect fraudulent claims patterns by analyzing historical claims data.
+Source: QBE Investor Report FY22
+
 2023-2024
-AI-Powered Customer Engagement:
-Rolled out advanced virtual assistants capable of providing real-time, 24/7 support. These bots handled routine inquiries, freeing up agents for complex issues.
-Cost Optimization Efforts:
-Achieved $150 million in run-rate savings through automation and operational efficiencies, partly driven by AI tools in contact centers.
-Omnichannel Integration:
-Integrated multiple communication channels (phone, email, chat) into a seamless AI-driven platform using partners like Genesys and Verint.
+Scaling Generative AI Solutions Globally: QBE extended the Cyber Underwriting AI Assistant to Europe and Asia, adapting it for Workers' Compensation underwriting.
+Source: QBE Expands GenAI Globally
+Geospatial Technology Integration: Integrated geospatial technology with AI to enhance claims response during severe weather events, enabling real-time damage assessments.
+Source: QBE Ventures on Geospatial Technology
  
 2024-2025
-Focus on Personalization:
-Leveraged predictive analytics in contact centers to anticipate customer needs based on interaction history, offering tailored solutions during calls or chats.
-
-
+Focus on Responsible AI Use: QBE implemented a framework for responsible AI use, ensuring fairness and transparency.
+Source: QBE Newsroom on Responsible AI Use
+Global Expansion of GenAI Tools: Plans to roll out generative AI tools to support underwriting in Australia-Pacific markets.
+Source: QBE Half-Year Investor Report 2024
  
-"
