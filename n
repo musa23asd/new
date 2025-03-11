@@ -1,41 +1,18 @@
-"2021-2022
-SmartAction AI-Powered Virtual Agents (Your Data):
-ACG implemented SmartAction’s conversational AI solution to provide 24/7 emergency roadside assistance to members. These virtual agents:
-Offer self-service options for tasks like roadside assistance. 
-Reduce wait times and provide immediate responses to members.
-Source: Salesforce Newsroom – ACG Partnership
-Integration of Salesforce Service GPT Chatbots (Your Data):
-ACG partnered with Salesforce to integrate Service GPT-powered chatbots into its contact centers. These chatbots:
-Provide real-time answers to customer queries, such as membership renewals or adding family members to plans.
-Improve customer satisfaction by reducing response times and automating routine tasks.
-Source: Salesforce Newsroom – ACG Partnership
+Pricing Maturity	"Pricing Models and Risk Assessment (https://www.axiscapital.com/insurance/program-business)
+AXIS uses advanced analytics and AI-powered platforms for risk assessment and pricing. This ensures precise pricing for complex risks in specialty insurance and reinsurance markets.
+The company applies well-defined underwriting templates for niche markets, enabling accurate pricing based on historical data and market trends
  
-2022-2023
-Generative AI for Personalized Member Engagement:
-ACG began leveraging Salesforce's Einstein AI Cloud to enhance customer service. Key features include:
-Personalized recommendations for members based on their profiles.
-Real-time support for agents, enabling them to access relevant content quickly during customer interactions.
-Source: CIO Dive – Generative AI Push
-Automated Fleet Deployment:
-AI tools were used to automate fleet deployment for roadside assistance, reducing response times by 10% and improving scheduling efficiency.
-Source: Salesforce Customer Story
+2. Transition to Less Risky Business - https://seekingalpha.com/article/4714860-axis-capital-successful-transition-to-less-risky-business-model?utm_source=perplexity
+AXIS has shifted its focus from property and catastrophe reinsurance to specialty insurance, which allows for more stable pricing and reduced volatility in premiums
+This transition has improved underwriting profitability, with a focus on sectors like cyber, marine, and renewable energy
  
-2023-2024
-Conversation Intelligence for Agent Performance:
-ACG implemented Medallia’s conversation intelligence platform to:
-Analyze customer interactions and improve agent performance.
-Optimize quality management through actionable insights from recorded conversations.
-Source: Medallia Case Study
-Real-Time Data Integration:
-Leveraged real-time data analytics in contact centers to provide accurate arrival time quotes for roadside assistance and create a 360-degree view of customers’ needs.
-Source: Salesforce Customer Story
+3. Digital Transformation in Pricing(https://dcfmodeling.com/products/axs-business-model-canvas?)
+Investments in digital claims processing systems and AI tools have enhanced AXIS's ability to price policies dynamically based on real-time risk data
+ Blockchain-enabled claims processing also supports transparency in policy pricing
  
-2024-2025
-Generative AI for Agent Support:
-Plans were initiated to expand generative AI capabilities, allowing agents to:
-Automatically retrieve complex insurance policy information.
-Draft personalized responses based on customer data stored in Salesforce systems.
-Source: CIO Dive – Generative AI Push
-Enhanced Self-Service Channels:
-Continued investment in self-service channels using SmartAction’s conversational AI, enabling members to handle more complex tasks independently without agent intervention.
-Source: Salesforce Newsroom – ACG Partnership"
+4. Delegated Underwriting Authority(https://www.axiscapital.com/insurance/program-business?)
+AXIS collaborates with Program Administrators (PAs) and Managing General Agents (MGAs) who handle underwriting, rating, and policy issuance. This decentralized approach ensures tailored pricing for specific industries or product lines
+
+5. Future Outlook (2025-2026)
+AXIS is expected to continue refining its pricing models by integrating real-time data analytics and predictive modeling. 
+The company aims to achieve consistent profitability by focusing on less volatile specialty markets while leveraging technology for dynamic pricing adjustments."
