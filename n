@@ -1,14 +1,1 @@
-101	Brown & Brown
-102	Convex
-103	WTW
-104	Geico
-105	At-Bay
-106	Blue Shield of CA
-107	CA Casualty Group
-108	Cambia
-109	Ethos
-110	Next Insurance
-111	Sidecar Health
-112	Vouch
-113	VSP Vision Care
-114	Automobile Club of Southern CA
+When a major disaster hits, the cost isn’t confined to property damage and lost lives. In 2024, natural catastrophes resulted in roughly $140 billion (compared to $106 billion in 2023) in insured losses - while total economic damage, including uninsured losses, reached around $320 billion.  
