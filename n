@@ -1,18 +1,14 @@
-Pricing Maturity	"Pricing Models and Risk Assessment (https://www.axiscapital.com/insurance/program-business)
-AXIS uses advanced analytics and AI-powered platforms for risk assessment and pricing. This ensures precise pricing for complex risks in specialty insurance and reinsurance markets.
-The company applies well-defined underwriting templates for niche markets, enabling accurate pricing based on historical data and market trends
- 
-2. Transition to Less Risky Business - https://seekingalpha.com/article/4714860-axis-capital-successful-transition-to-less-risky-business-model?utm_source=perplexity
-AXIS has shifted its focus from property and catastrophe reinsurance to specialty insurance, which allows for more stable pricing and reduced volatility in premiums
-This transition has improved underwriting profitability, with a focus on sectors like cyber, marine, and renewable energy
- 
-3. Digital Transformation in Pricing(https://dcfmodeling.com/products/axs-business-model-canvas?)
-Investments in digital claims processing systems and AI tools have enhanced AXIS's ability to price policies dynamically based on real-time risk data
- Blockchain-enabled claims processing also supports transparency in policy pricing
- 
-4. Delegated Underwriting Authority(https://www.axiscapital.com/insurance/program-business?)
-AXIS collaborates with Program Administrators (PAs) and Managing General Agents (MGAs) who handle underwriting, rating, and policy issuance. This decentralized approach ensures tailored pricing for specific industries or product lines
-
-5. Future Outlook (2025-2026)
-AXIS is expected to continue refining its pricing models by integrating real-time data analytics and predictive modeling. 
-The company aims to achieve consistent profitability by focusing on less volatile specialty markets while leveraging technology for dynamic pricing adjustments."
+101	Brown & Brown
+102	Convex
+103	WTW
+104	Geico
+105	At-Bay
+106	Blue Shield of CA
+107	CA Casualty Group
+108	Cambia
+109	Ethos
+110	Next Insurance
+111	Sidecar Health
+112	Vouch
+113	VSP Vision Care
+114	Automobile Club of Southern CA
