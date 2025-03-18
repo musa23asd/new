@@ -1,10 +1,13 @@
-C:\>npx create-react-app myfrontend
-npm ERR! code ENOENT
-npm ERR! syscall lstat
-npm ERR! path C:\Users\2000137378\AppData\Roaming\npm
-npm ERR! errno -4058
-npm ERR! enoent ENOENT: no such file or directory, lstat 'C:\Users\2000137378\AppData\Roaming\npm'
-npm ERR! enoent This is related to npm not being able to find a file.
-npm ERR! enoent
-
-npm ERR! A complete log of this run can be found in: C:\Users\2000137378\AppData\Local\npm-cache\_logs\2025-03-18T08_42_56_657Z-debug-0.log
+Claims Processing Efficiency	Reduces claims-processing time by up to 70% and lowers cost by 30%	https://www.softwebsolutions.com/resources/agentic-ai-in-insurance.html
+Underwriting Accuracy	Improves operational efficiency by 30-50%	https://www.softwebsolutions.com/resources/agentic-ai-in-insurance.html
+Productivity in Risk and Compliance	Increases productivity across risk and compliance functions by 10-30%	https://www.softwebsolutions.com/resources/agentic-ai-in-insurance.html
+Fraud Detection	Transforms claims adjudication, expedites processes, and improves fraud detection	https://www.forbes.com/councils/forbestechcouncil/2025/01/29/smarter-coverage-how-agentic-ai-is-changing-the-insurance-industry/
+Customer Service Enhancement	AI-powered chatbots provide 24/7 support, improving customer satisfaction	https://www.everestgrp.com/insurance-industry/agentic-ai-in-insurance-transforming-risk-relationships-and-results.html
+Autonomous Decision-Making	Enables autonomous decision-making in fraud detection, underwriting, and claims	https://www.everestgrp.com/insurance-industry/agentic-ai-in-insurance-transforming-risk-relationships-and-results.html
+Market Adoption and Growth	Agentic AI market projected to reach $30.89 billion in 2024 with 31.68% CAGR	https://fintech.global/2024/11/21/how-agentic-ai-will-transform-insurtech-in-2025/
+Health Insurance AI Tool	New AI tool developed to counter health insurance denials decided by automated algorithms	https://www.theguardian.com/us-news/2025/jan/25/health-insurers-ai
+AI Empathy vs Insurance Reps	AI found to be more empathetic than human insurance representatives	https://www.wsj.com/articles/turns-out-ai-is-more-empathetic-than-allstates-insurance-reps-cf5f7c98
+Waymo AI and Insurance	Waymo's AI still doing better than humans at preventing injuries and property damage	https://www.theverge.com/2024/12/19/24324492/waymo-injury-property-damage-insurance-data-swiss-re
+	CSAT improvement by 18%	https://www.willowtreeapps.com/insights/quantifying-opportunity-value-of-agentic-ai
+	Claims processing costs reduced by 30%, claims processing efficiency improved by 25%	https://www.akira.ai/blog/claims-adjustment-with-ai-agents
+	Customer support costs reduced by 50%	https://ambilio.com/agentic-ai-can-reduce-customer-support-costs-by-50-heres-how/
